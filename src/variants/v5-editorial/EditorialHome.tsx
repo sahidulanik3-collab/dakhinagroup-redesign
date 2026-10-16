@@ -200,11 +200,11 @@ export const EditorialHome: React.FC = () => {
           {/* Large Hero Stage */}
           <div className="relative rounded-3xl overflow-hidden aspect-[16/9] lg:aspect-[21/9] border-2 border-[#0F172A]/30 shadow-2xl bg-neutral-900 group">
             <img
-              src="/assets/dakhina-live/DSCF8646.jpg"
+              src="./assets/dakhina-live/DSCF8646.jpg"
               alt="Dakhina City Sovereign Masterplan"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-102"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
+                (e.target as HTMLImageElement).src = './assets/dakhina-live/DSCF8649.jpg';
               }}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-[#0F172A] via-[#0F172A]/50 to-transparent" />
@@ -684,7 +684,7 @@ export const EditorialHome: React.FC = () => {
                   alt={prop.title}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-live/DSCF8649.jpg';
                   }}
                 />
                 <div className="absolute top-3 left-3 px-3 py-1 rounded bg-[#0F172A] text-white text-[10px] font-bold uppercase">

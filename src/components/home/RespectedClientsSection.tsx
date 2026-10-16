@@ -95,13 +95,13 @@ export const RespectedClientsSection: React.FC = () => {
           <div className="flex items-center gap-4 group">
             <div className="h-20 w-20 sm:h-24 sm:w-24 rounded-full bg-white p-2 shadow-lg border-2 border-[#128341]/30 flex items-center justify-center group-hover:scale-105 transition-transform">
               <img
-                src="/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
+                src="./assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
                 alt="Bangladesh Air Force Welfare Trust"
                 loading="lazy"
                 decoding="async"
                 className="h-full w-full object-contain"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png';
+                  (e.target as HTMLImageElement).src = './assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png';
                 }}
               />
             </div>
@@ -124,13 +124,13 @@ export const RespectedClientsSection: React.FC = () => {
           <div className="flex items-center gap-4 group">
             <div className="h-20 w-20 sm:h-24 sm:w-24 rounded-full bg-white p-2 shadow-lg border-2 border-[#128341]/30 flex items-center justify-center group-hover:scale-105 transition-transform">
               <img
-                src="/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
+                src="./assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
                 alt="Bangladesh Air Force Official Crest"
                 loading="lazy"
                 decoding="async"
                 className="h-full w-full object-contain"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png';
+                  (e.target as HTMLImageElement).src = './assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png';
                 }}
               />
             </div>
@@ -164,13 +164,13 @@ export const RespectedClientsSection: React.FC = () => {
                 <div className="flex items-center gap-3 mb-4">
                   <div className="h-12 w-12 rounded-full overflow-hidden bg-[#eaf5eb] border-2 border-[#128341] flex items-center justify-center shrink-0 shadow-sm">
                     <img
-                      src="/assets/dakhina-live/user-jpg.webp"
+                      src="./assets/dakhina-live/user-jpg.webp"
                       alt={client.name}
                       loading="lazy"
                       decoding="async"
                       className="h-full w-full object-cover"
                       onError={(e) => {
-                        (e.target as HTMLImageElement).src = '/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png';
+                        (e.target as HTMLImageElement).src = './assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png';
                       }}
                     />
                   </div>

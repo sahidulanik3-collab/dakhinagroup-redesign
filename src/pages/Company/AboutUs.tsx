@@ -59,10 +59,10 @@ export const AboutUs: React.FC = () => {
         <div className="lg:col-span-5">
           <div className="rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-neutral-900">
             <img
-              src="/assets/drel-banner.jpg"
+              src="./assets/drel-banner.jpg"
               alt="Dakhina Group Headquarters and Estates"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="w-full h-auto object-cover"
             />

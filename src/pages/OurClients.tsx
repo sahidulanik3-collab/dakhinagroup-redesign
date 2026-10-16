@@ -10,7 +10,7 @@ const REAL_CLIENTS = [
     bnRank: '(অবসরপ্রাপ্ত) মেজর জেনারেল',
     branch: 'Bangladesh Army',
     bnBranch: 'বাংলাদেশ সেনাবাহিনী',
-    avatar: '/assets/dakhina-live/user-jpg.webp',
+    avatar: './assets/dakhina-live/user-jpg.webp',
     quote: {
       en: 'Dakhina City exemplifies the highest standard of land documentation and professional ethics. Investing here provided complete confidence and legal transparency.',
       bn: 'দখিনা সিটি সর্বোচ্চ স্তরের ভূমিসংক্রান্ত আইনি স্বচ্ছতা ও পেশাদারিত্বের প্রমাণ দিয়েছে। এখানে বিনিয়োগে আমি শতভাগ নিশ্চিত ও সন্তুষ্ট।',
@@ -24,7 +24,7 @@ const REAL_CLIENTS = [
     bnRank: '(অবসরপ্রাপ্ত) ব্রিগেডিয়ার জেনারেল',
     branch: 'Bangladesh Army',
     bnBranch: 'বাংলাদেশ সেনাবাহিনী',
-    avatar: '/assets/dakhina-live/user-jpg.webp',
+    avatar: './assets/dakhina-live/user-jpg.webp',
     quote: {
       en: 'The proximity to Uttara Sector 18 and the planned Cantonment corridors makes Dakhina Group the pre-eminent choice for senior defense officers seeking serene residential living.',
       bn: 'উত্তরা ১৮ নম্বর সেক্টর ও সেনানিবাস সংযোগ সড়কের নৈকট্য অবসরপ্রাপ্ত সিনিয়র সামরিক কর্মকর্তাদের শান্তিপূর্ণ বসবাসের জন্য দখিনাকে সেরা পছন্দের রূপ দিয়েছে।',
@@ -38,7 +38,7 @@ const REAL_CLIENTS = [
     bnRank: '(অবসরপ্রাপ্ত) ব্রিগেডিয়ার জেনারেল',
     branch: 'Bangladesh Army',
     bnBranch: 'বাংলাদেশ সেনাবাহিনী',
-    avatar: '/assets/dakhina-live/user-jpg.webp',
+    avatar: './assets/dakhina-live/user-jpg.webp',
     quote: {
       en: 'Their transparent approach, direct handover records, and focus on genuine physical possession place Dakhina Group in a class of their own.',
       bn: 'সরাসরি সীমানা চিহ্নিত করে দ্রুত খতিয়ান হস্তান্তর ও প্রকৃত দখল নিশ্চিতকরণের ক্ষেত্রে দখিনা গ্রুপ দেশের রিয়েল এস্টেট খাতে একটি অনন্য দৃষ্টান্ত।',
@@ -52,7 +52,7 @@ const REAL_CLIENTS = [
     bnRank: '(অবসরপ্রাপ্ত) ব্রিগেডিয়ার জেনারেল',
     branch: 'Bangladesh Army',
     bnBranch: 'বাংলাদেশ সেনাবাহিনী',
-    avatar: '/assets/dakhina-live/user-jpg.webp',
+    avatar: './assets/dakhina-live/user-jpg.webp',
     quote: {
       en: 'A trustworthy real estate firm upholding uncompromising integrity. The natural red-clay highland topography of Dakhina City is truly exceptional.',
       bn: 'অটুট সততা ও আস্থার প্রতীক। দখিনা সিটির প্রাকৃতিক লাল মাটির উঁচু ভূমি ও সুপরিকল্পিত মাস্টারপ্ল্যান সত্যিই তুলনাহীন।',
@@ -66,56 +66,56 @@ const AGENCIES = [
     name: 'Bangladesh Water Development Board',
     bnName: 'পানি উন্নয়ন বোর্ড',
     short: 'BWDB',
-    logo: '/assets/dakhina-live/wdb-150x150.png',
+    logo: './assets/dakhina-live/wdb-150x150.png',
     role: 'Hydrology and flood prevention clearance',
   },
   {
     name: 'Dhaka WASA',
     bnName: 'ঢাকা ওয়াসা',
     short: 'DWASA',
-    logo: '/assets/dakhina-live/wasa-150x150.png',
+    logo: './assets/dakhina-live/wasa-150x150.png',
     role: 'Potable water supply & drainage system',
   },
   {
     name: 'Bangladesh Police',
     bnName: 'বাংলাদেশ পুলিশ',
     short: 'POLICE',
-    logo: '/assets/dakhina-live/police-150x150.jpg',
+    logo: './assets/dakhina-live/police-150x150.jpg',
     role: 'Public security and community safety',
   },
   {
     name: 'RAJUK',
     bnName: 'রাজউক',
     short: 'RAJUK',
-    logo: '/assets/dakhina-live/rajuk-150x150.jpg',
+    logo: './assets/dakhina-live/rajuk-150x150.jpg',
     role: 'Detailed Area Plan (DAP) homestead zone',
   },
   {
     name: 'Titas Gas T&D',
     bnName: 'তিতাস গ্যাস',
     short: 'TITAS',
-    logo: '/assets/dakhina-live/titas-150x150.jpeg',
+    logo: './assets/dakhina-live/titas-150x150.jpeg',
     role: 'Utility corridor and supply clearance',
   },
   {
     name: 'Fire Service & Civil Defence',
     bnName: 'ফায়ার সার্ভিস',
     short: 'FSCD',
-    logo: '/assets/dakhina-live/fire-150x150.png',
+    logo: './assets/dakhina-live/fire-150x150.png',
     role: 'Fire safety egress & 80ft arterial roads',
   },
   {
     name: 'Department of Environment',
     bnName: 'পরিবেশ অধিদপ্তর',
     short: 'DoE',
-    logo: '/assets/dakhina-live/doe-150x150.png',
+    logo: './assets/dakhina-live/doe-150x150.png',
     role: 'Eco-equilibrium & lake preservation',
   },
   {
     name: 'Dhaka Transport Coordination Authority',
     bnName: 'ডিটিসিএ',
     short: 'DTCA',
-    logo: '/assets/dakhina-live/dtca-150x150.jpeg',
+    logo: './assets/dakhina-live/dtca-150x150.jpeg',
     role: 'Expressway & Metro Line 6 connectivity',
   },
 ];
@@ -147,7 +147,7 @@ export const OurClients: React.FC = () => {
         <div className="p-8 rounded-3xl bg-gradient-to-br from-[#f4faf4] to-white border-2 border-[#128341]/30 shadow-lg flex flex-col sm:flex-row items-center gap-6">
           <div className="h-28 w-28 rounded-full bg-white p-3 shadow-xl border-2 border-[#128341] flex items-center justify-center shrink-0">
             <img
-              src="/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
+              src="./assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
               alt="Bangladesh Air Force Welfare Trust"
               className="h-full w-full object-contain"
             />
@@ -171,7 +171,7 @@ export const OurClients: React.FC = () => {
         <div className="p-8 rounded-3xl bg-gradient-to-br from-[#f4faf4] to-white border-2 border-[#128341]/30 shadow-lg flex flex-col sm:flex-row items-center gap-6">
           <div className="h-28 w-28 rounded-full bg-white p-3 shadow-xl border-2 border-[#128341] flex items-center justify-center shrink-0">
             <img
-              src="/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
+              src="./assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
               alt="Bangladesh Air Force Crest"
               className="h-full w-full object-contain"
             />
@@ -283,7 +283,7 @@ export const OurClients: React.FC = () => {
                   alt={agency.name}
                   className="h-full w-full object-contain"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-live/rajuk-150x150.jpg';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-live/rajuk-150x150.jpg';
                   }}
                 />
               </div>

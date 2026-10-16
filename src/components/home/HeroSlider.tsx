@@ -12,7 +12,7 @@ export interface HeroSlide {
 
 const SLIDES: HeroSlide[] = [
   {
-    image: '/assets/dakhina-live/beutyfication.jpg',
+    image: './assets/dakhina-live/beutyfication.jpg',
     badge: {
       en: 'ARCHITECT OF TRUST · ESTABLISHED 2004',
       bn: 'আস্থার স্থপতি · ২০০৪ থেকে বিশ্বস্ত',
@@ -27,7 +27,7 @@ const SLIDES: HeroSlide[] = [
     },
   },
   {
-    image: '/assets/dakhina-live/DSCF8649.jpg',
+    image: './assets/dakhina-live/DSCF8649.jpg',
     badge: {
       en: '10 MINUTES TO METRO RAIL LINE 6',
       bn: 'উত্তরা ১৮ নম্বর সেক্টর ও মেট্রোরেল সংলগ্ন',
@@ -42,7 +42,7 @@ const SLIDES: HeroSlide[] = [
     },
   },
   {
-    image: '/assets/dakhina-live/DSCF8646.jpg',
+    image: './assets/dakhina-live/DSCF8646.jpg',
     badge: {
       en: 'REHAB MEMBER #495 · RAJUK DAP APPROVED',
       bn: 'রিহ্যাব সদস্য নং ৪৯৫ · রাজউক ড্যাপ অনুমোদিত',
@@ -96,7 +96,7 @@ export const HeroSlider: React.FC = () => {
               src={slide.image}
               alt={slide.title.en}
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/dakhina-live/beutyfication.jpg';
+                (e.target as HTMLImageElement).src = './assets/dakhina-live/beutyfication.jpg';
               }}
               className="w-full h-full object-cover transform scale-105 transition-transform duration-10000"
             />

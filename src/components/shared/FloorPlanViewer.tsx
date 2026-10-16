@@ -61,7 +61,7 @@ export const FloorPlanViewer: React.FC<{
             src={current.image}
             alt={`${current.floor} layout plan`}
             onError={(e) => {
-              (e.target as HTMLImageElement).src = '/assets/floorplans/plan-ground.svg';
+              (e.target as HTMLImageElement).src = './assets/floorplans/plan-ground.svg';
             }}
             className="w-full h-full object-contain"
           />

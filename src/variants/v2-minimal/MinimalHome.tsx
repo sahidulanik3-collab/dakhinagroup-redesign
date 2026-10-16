@@ -17,9 +17,9 @@ import {
 } from 'lucide-react';
 
 const SLIDE_VIEWS = [
-  { id: 'drone', label: 'Aerial View 01', img: '/assets/dakhina-live/DSCF8649.jpg', caption: 'High-Elevation Aerial Survey across 1,200 Bigha Highland' },
-  { id: 'road', label: 'Boulevard 02', img: '/assets/dakhina-live/60.jpg', caption: 'Demarcated 60ft and 80ft Arterial Road Network' },
-  { id: 'lake', label: 'Enclave 03', img: '/assets/dakhina-live/beutyfication2.jpg', caption: 'Lakeview Residential Compound & Private Boundary' },
+  { id: 'drone', label: 'Aerial View 01', img: './assets/dakhina-live/DSCF8649.jpg', caption: 'High-Elevation Aerial Survey across 1,200 Bigha Highland' },
+  { id: 'road', label: 'Boulevard 02', img: './assets/dakhina-live/60.jpg', caption: 'Demarcated 60ft and 80ft Arterial Road Network' },
+  { id: 'lake', label: 'Enclave 03', img: './assets/dakhina-live/beutyfication2.jpg', caption: 'Lakeview Residential Compound & Private Boundary' },
 ];
 
 const PLOT_SPECS = [
@@ -56,14 +56,14 @@ const DEFENSE_HONORS = [
 ];
 
 const STATUTORY_AGENCIES = [
-  { short: 'BWDB', name: 'Water Development Board', bn: 'পানি উন্নয়ন বোর্ড', file: '/assets/dakhina-live/wdb-150x150.png', reg: 'Clearance #HYD-409/08' },
-  { short: 'DWASA', name: 'Dhaka WASA Drainage', bn: 'ঢাকা ওয়াসা', file: '/assets/dakhina-live/wasa-150x150.png', reg: 'Water Grid Approval' },
-  { short: 'POLICE', name: 'Bangladesh Police', bn: 'বাংলাদেশ পুলিশ', file: '/assets/dakhina-live/police-150x150.jpg', reg: 'Safety Security Egress' },
-  { short: 'RAJUK', name: 'RAJUK DAP 2022-35', bn: 'রাজউক ড্যাপ', file: '/assets/dakhina-live/rajuk-150x150.jpg', reg: 'Homestead Masterplan' },
-  { short: 'TITAS', name: 'Titas Gas Grid', bn: 'তিতাস গ্যাস', file: '/assets/dakhina-live/titas-150x150.jpeg', reg: 'Energy Corridor Clear' },
-  { short: 'FIRE', name: 'Fire & Civil Defence', bn: 'ফায়ার সার্ভিস', file: '/assets/dakhina-live/fire-150x150.png', reg: '80ft Road Clearance' },
-  { short: 'DoE', name: 'Dept of Environment', bn: 'পরিবেশ অধিদপ্তর', file: '/assets/dakhina-live/doe-150x150.png', reg: 'Eco Hydrology Approved' },
-  { short: 'DTCA', name: 'Transport Coordination', bn: 'ডিটিসিএ', file: '/assets/dakhina-live/dtca-150x150.jpeg', reg: 'Expressway Integration' },
+  { short: 'BWDB', name: 'Water Development Board', bn: 'পানি উন্নয়ন বোর্ড', file: './assets/dakhina-live/wdb-150x150.png', reg: 'Clearance #HYD-409/08' },
+  { short: 'DWASA', name: 'Dhaka WASA Drainage', bn: 'ঢাকা ওয়াসা', file: './assets/dakhina-live/wasa-150x150.png', reg: 'Water Grid Approval' },
+  { short: 'POLICE', name: 'Bangladesh Police', bn: 'বাংলাদেশ পুলিশ', file: './assets/dakhina-live/police-150x150.jpg', reg: 'Safety Security Egress' },
+  { short: 'RAJUK', name: 'RAJUK DAP 2022-35', bn: 'রাজউক ড্যাপ', file: './assets/dakhina-live/rajuk-150x150.jpg', reg: 'Homestead Masterplan' },
+  { short: 'TITAS', name: 'Titas Gas Grid', bn: 'তিতাস গ্যাস', file: './assets/dakhina-live/titas-150x150.jpeg', reg: 'Energy Corridor Clear' },
+  { short: 'FIRE', name: 'Fire & Civil Defence', bn: 'ফায়ার সার্ভিস', file: './assets/dakhina-live/fire-150x150.png', reg: '80ft Road Clearance' },
+  { short: 'DoE', name: 'Dept of Environment', bn: 'পরিবেশ অধিদপ্তর', file: './assets/dakhina-live/doe-150x150.png', reg: 'Eco Hydrology Approved' },
+  { short: 'DTCA', name: 'Transport Coordination', bn: 'ডিটিসিএ', file: './assets/dakhina-live/dtca-150x150.jpeg', reg: 'Expressway Integration' },
 ];
 
 export const MinimalHome: React.FC = () => {
@@ -285,7 +285,7 @@ export const MinimalHome: React.FC = () => {
           <div className="p-6 rounded-3xl bg-white border border-[#E4E4E7] flex items-center gap-5 shadow-sm">
             <div className="h-20 w-20 rounded-full bg-neutral-50 p-2.5 border border-neutral-300 flex items-center justify-center shrink-0">
               <img
-                src="/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
+                src="./assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
                 alt="BAF Welfare Trust"
                 className="h-full w-full object-contain"
               />
@@ -306,7 +306,7 @@ export const MinimalHome: React.FC = () => {
           <div className="p-6 rounded-3xl bg-white border border-[#E4E4E7] flex items-center gap-5 shadow-sm">
             <div className="h-20 w-20 rounded-full bg-neutral-50 p-2.5 border border-neutral-300 flex items-center justify-center shrink-0">
               <img
-                src="/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
+                src="./assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
                 alt="Bangladesh Air Force"
                 className="h-full w-full object-contain"
               />
@@ -392,28 +392,28 @@ export const MinimalHome: React.FC = () => {
           {/* 4 Photos */}
           <div className="pt-4 grid grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="rounded-2xl overflow-hidden aspect-[4/3] border border-neutral-200 relative group">
-              <img src="/assets/dakhina-live/60.jpg" alt="60ft Road" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+              <img src="./assets/dakhina-live/60.jpg" alt="60ft Road" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent" />
               <span className="absolute bottom-2.5 left-3 right-3 text-white text-[10px] font-mono">
                 {isBn ? '৬০ ও ৮০ ফুট মূল সংযোগ সড়ক' : '60ft & 80ft Main Boulevard'}
               </span>
             </div>
             <div className="rounded-2xl overflow-hidden aspect-[4/3] border border-neutral-200 relative group">
-              <img src="/assets/dakhina-live/beutyfication2.jpg" alt="Lakeview Compound" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+              <img src="./assets/dakhina-live/beutyfication2.jpg" alt="Lakeview Compound" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent" />
               <span className="absolute bottom-2.5 left-3 right-3 text-white text-[10px] font-mono">
                 {isBn ? 'লেকভিউ আবাসিক কম্পাউন্ড' : 'Lakeview Compound'}
               </span>
             </div>
             <div className="rounded-2xl overflow-hidden aspect-[4/3] border border-neutral-200 relative group">
-              <img src="/assets/dakhina-live/project_work3-1024x610.jpg" alt="RCC Drainage" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+              <img src="./assets/dakhina-live/project_work3-1024x610.jpg" alt="RCC Drainage" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent" />
               <span className="absolute bottom-2.5 left-3 right-3 text-white text-[10px] font-mono">
                 {isBn ? 'আরসিসি ড্রেনেজ ও বক্স কালভার্ট' : 'Underground RCC Drainage'}
               </span>
             </div>
             <div className="rounded-2xl overflow-hidden aspect-[4/3] border border-neutral-200 relative group">
-              <img src="/assets/dakhina-live/beutyfication4.jpg" alt="Botanical Walkways" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+              <img src="./assets/dakhina-live/beutyfication4.jpg" alt="Botanical Walkways" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent" />
               <span className="absolute bottom-2.5 left-3 right-3 text-white text-[10px] font-mono">
                 {isBn ? 'ইকো ওয়াকওয়ে ও বৃক্ষরোপণ' : 'Paved Floral Walkways'}
@@ -436,7 +436,7 @@ export const MinimalHome: React.FC = () => {
 
         <div className="relative rounded-3xl overflow-hidden aspect-[21/9] bg-neutral-900 border border-[#E4E4E7] group shadow-xl">
           <img
-            src="/assets/dakhina-live/drel-1024x440.jpg"
+            src="./assets/dakhina-live/drel-1024x440.jpg"
             alt="DREL Iconic Carved Hedge Garden"
             className="w-full h-full object-cover group-hover:scale-102 transition-transform duration-700"
           />
@@ -564,7 +564,7 @@ export const MinimalHome: React.FC = () => {
                       ARCHITECTURAL CAD BLUEPRINT
                     </span>
                     <img
-                      src={prop.floorPlans[0]?.image || '/assets/floorplans/plan-ground.svg'}
+                      src={prop.floorPlans[0]?.image || './assets/floorplans/plan-ground.svg'}
                       alt="Floor plan"
                       className="w-full h-48 object-contain rounded"
                     />

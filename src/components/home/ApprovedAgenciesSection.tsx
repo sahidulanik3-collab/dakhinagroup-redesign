@@ -17,7 +17,7 @@ const AGENCIES: Agency[] = [
     id: 'wdb',
     name: 'Bangladesh Water Development Board',
     bnName: 'বাংলাদেশ পানি উন্নয়ন বোর্ড',
-    logo: '/assets/dakhina-live/wdb-150x150.png',
+    logo: './assets/dakhina-live/wdb-150x150.png',
     role: 'Hydrology, flood safety & water flow clearance',
     bnRole: 'হাইড্রোলজি ও বন্যা নিরোধক ছাড়পত্র',
   },
@@ -25,7 +25,7 @@ const AGENCIES: Agency[] = [
     id: 'wasa',
     name: 'Dhaka WASA',
     bnName: 'ঢাকা ওয়াসা',
-    logo: '/assets/dakhina-live/wasa-150x150.png',
+    logo: './assets/dakhina-live/wasa-150x150.png',
     role: 'Water supply pipeline & drainage grid clearance',
     bnRole: 'পানি সরবরাহ ও পয়ঃনিষ্কাশন অনুমোদন',
   },
@@ -33,7 +33,7 @@ const AGENCIES: Agency[] = [
     id: 'police',
     name: 'Bangladesh Police',
     bnName: 'বাংলাদেশ পুলিশ',
-    logo: '/assets/dakhina-live/police-150x150.jpg',
+    logo: './assets/dakhina-live/police-150x150.jpg',
     role: 'Law & order, civic safety security clearance',
     bnRole: 'সার্বিক আইন-শৃঙ্খলা ও নিরাপত্তা ছাড়পত্র',
   },
@@ -41,7 +41,7 @@ const AGENCIES: Agency[] = [
     id: 'rajuk',
     name: 'RAJUK (Capital Development Authority)',
     bnName: 'রাজউক (রাজধানী উন্নয়ন কর্তৃপক্ষ)',
-    logo: '/assets/dakhina-live/rajuk-150x150.jpg',
+    logo: './assets/dakhina-live/rajuk-150x150.jpg',
     role: 'Detailed Area Plan (DAP) homestead zoning alignment',
     bnRole: 'ডিটেইল্ড এরিয়া প্ল্যান (ড্যাপ) অনুমোদন',
   },
@@ -49,7 +49,7 @@ const AGENCIES: Agency[] = [
     id: 'titas',
     name: 'Titas Gas Transmission & Distribution',
     bnName: 'তিতাস গ্যাস ট্রান্সমিশন অ্যান্ড ডিস্ট্রিবিউশন',
-    logo: '/assets/dakhina-live/titas-150x150.jpeg',
+    logo: './assets/dakhina-live/titas-150x150.jpeg',
     role: 'Liaison for underground energy pipeline corridor',
     bnRole: 'গ্যাস লাইন ও জ্বালানি করিডোর অনুমোদন',
   },
@@ -57,7 +57,7 @@ const AGENCIES: Agency[] = [
     id: 'fire',
     name: 'Fire Service & Civil Defence',
     bnName: 'ফায়ার সার্ভিস ও সিভিল ডিফেন্স',
-    logo: '/assets/dakhina-live/fire-150x150.png',
+    logo: './assets/dakhina-live/fire-150x150.png',
     role: 'Fire safety egress & 80ft arterial road clearance',
     bnRole: 'অগ্নি নিরাপত্তা ও প্রশস্ত সংযোগ সড়ক অনুমোদন',
   },
@@ -65,7 +65,7 @@ const AGENCIES: Agency[] = [
     id: 'doe',
     name: 'Department of Environment',
     bnName: 'পরিবেশ অধিদপ্তর',
-    logo: '/assets/dakhina-live/doe-150x150.png',
+    logo: './assets/dakhina-live/doe-150x150.png',
     role: 'Ecological equilibrium & natural lake preservation',
     bnRole: 'পরিবেশগত অবস্থান ও জলাধার সংরক্ষণ ছাড়পত্র',
   },
@@ -73,7 +73,7 @@ const AGENCIES: Agency[] = [
     id: 'dtca',
     name: 'Dhaka Transport Coordination Authority',
     bnName: 'ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ',
-    logo: '/assets/dakhina-live/dtca-150x150.jpeg',
+    logo: './assets/dakhina-live/dtca-150x150.jpeg',
     role: 'Regional highway corridor & Metro Line 6 integration',
     bnRole: 'আঞ্চলিক মহাসড়ক ও মেট্রো লাইন সমন্বয়',
   },
@@ -81,28 +81,28 @@ const AGENCIES: Agency[] = [
 
 const PROGRESS_PHOTOS = [
   {
-    image: '/assets/dakhina-live/60.jpg',
+    image: './assets/dakhina-live/60.jpg',
     caption: {
       en: '60ft & 80ft Main Boulevard Demarcation',
       bn: '৬০ ও ৮০ ফুট প্রশস্ত প্রধান সংযোগ সড়ক ও সীমানা প্রাচীর',
     },
   },
   {
-    image: '/assets/dakhina-live/beutyfication2.jpg',
+    image: './assets/dakhina-live/beutyfication2.jpg',
     caption: {
       en: 'Lakeview Residential Compound & Villas',
       bn: 'লেকভিউ আবাসিক জোন ও বিলাসবহুল ভিলা এরিয়া',
     },
   },
   {
-    image: '/assets/dakhina-live/project_work3-1024x610.jpg',
+    image: './assets/dakhina-live/project_work3-1024x610.jpg',
     caption: {
       en: 'Underground Drainage & Culvert Construction',
       bn: 'ভূগর্ভস্থ আরসিসি ড্রেনেজ ও বক্স কালভার্ট নির্মাণ',
     },
   },
   {
-    image: '/assets/dakhina-live/beutyfication4.jpg',
+    image: './assets/dakhina-live/beutyfication4.jpg',
     caption: {
       en: 'Paved Eco-Walkways & Tree Plantation',
       bn: 'ইকো ওয়াকওয়ে, বৃক্ষরোপণ ও মনোরম পুষ্পকানন',
@@ -146,7 +146,7 @@ export const ApprovedAgenciesSection: React.FC = () => {
                   decoding="async"
                   className="h-full w-full object-contain p-1 filter group-hover:scale-110 transition-transform duration-300"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-live/rajuk-150x150.jpg';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-live/rajuk-150x150.jpg';
                   }}
                 />
               </div>
@@ -191,7 +191,7 @@ export const ApprovedAgenciesSection: React.FC = () => {
                   decoding="async"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-live/beutyfication.jpg';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-live/beutyfication.jpg';
                   }}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-90 group-hover:opacity-95 transition-opacity" />

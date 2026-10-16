@@ -14,12 +14,12 @@ import {
 } from 'lucide-react';
 
 const GALLERY_THUMBNAILS = [
-  { src: '/assets/dakhina-live/drel-150x150.jpg', alt: 'DREL Hedge Landmark' },
-  { src: '/assets/dakhina-live/DSCF8648-150x150.jpg', alt: 'Highland Aerial Drone View' },
-  { src: '/assets/dakhina-live/beutyfication-150x150.jpg', alt: 'Flower Boulevard Driveway' },
-  { src: '/assets/dakhina-live/60-150x150.jpg', alt: 'Demarcated Plot Road' },
-  { src: '/assets/dakhina-live/80-150x150.jpg', alt: 'Main 80ft Boulevard' },
-  { src: '/assets/dakhina-live/beutyfication2-150x150.jpg', alt: 'Lakefront Residential Compound' },
+  { src: './assets/dakhina-live/drel-150x150.jpg', alt: 'DREL Hedge Landmark' },
+  { src: './assets/dakhina-live/DSCF8648-150x150.jpg', alt: 'Highland Aerial Drone View' },
+  { src: './assets/dakhina-live/beutyfication-150x150.jpg', alt: 'Flower Boulevard Driveway' },
+  { src: './assets/dakhina-live/60-150x150.jpg', alt: 'Demarcated Plot Road' },
+  { src: './assets/dakhina-live/80-150x150.jpg', alt: 'Main 80ft Boulevard' },
+  { src: './assets/dakhina-live/beutyfication2-150x150.jpg', alt: 'Lakefront Residential Compound' },
 ];
 
 export const Footer: React.FC = () => {
@@ -34,13 +34,13 @@ export const Footer: React.FC = () => {
       {/* Scenic mirpur_view.jpg Panoramic Background */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/assets/dakhina-live/mirpur_view.jpg"
+          src="./assets/dakhina-live/mirpur_view.jpg"
           alt="Dakhina City Panoramic Green Landscape"
           loading="lazy"
           decoding="async"
           className="w-full h-full object-cover object-bottom"
           onError={(e) => {
-            (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
+            (e.target as HTMLImageElement).src = './assets/dakhina-live/DSCF8649.jpg';
           }}
         />
         {/* Dark Emerald & Neutral Gradient Overlay for Superior Contrast */}
@@ -55,13 +55,13 @@ export const Footer: React.FC = () => {
             <Link to="/" className="inline-block group">
               <div className="bg-white/95 rounded-2xl p-2.5 shadow-md border border-white/20 inline-flex items-center gap-3">
                 <img
-                  src="/assets/dakhina-live/dakhina.png"
+                  src="./assets/dakhina-live/dakhina.png"
                   alt="Dakhina Group - Architect of Trust"
                   loading="lazy"
                   decoding="async"
                   className="h-10 sm:h-12 w-auto object-contain"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-brand.png';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-brand.png';
                   }}
                 />
               </div>
@@ -133,7 +133,7 @@ export const Footer: React.FC = () => {
                     decoding="async"
                     className="w-full h-full object-cover group-hover:scale-115 transition-transform duration-300"
                     onError={(e) => {
-                      (e.target as HTMLImageElement).src = '/assets/dakhina-live/beutyfication.jpg';
+                      (e.target as HTMLImageElement).src = './assets/dakhina-live/beutyfication.jpg';
                     }}
                   />
                   <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors" />

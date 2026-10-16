@@ -30,29 +30,29 @@
       "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-1-ext.jpg",
-      "/assets/properties/villa-1-living.jpg",
-      "/assets/properties/villa-1-bed.jpg",
-      "/assets/properties/villa-1-aerial.jpg"
+      "./assets/properties/villa-1-ext.jpg",
+      "./assets/properties/villa-1-living.jpg",
+      "./assets/properties/villa-1-bed.jpg",
+      "./assets/properties/villa-1-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1980,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1540,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 880,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -97,29 +97,29 @@
       "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-2-ext.jpg",
-      "/assets/properties/villa-2-living.jpg",
-      "/assets/properties/villa-2-bed.jpg",
-      "/assets/properties/villa-2-aerial.jpg"
+      "./assets/properties/villa-2-ext.jpg",
+      "./assets/properties/villa-2-living.jpg",
+      "./assets/properties/villa-2-bed.jpg",
+      "./assets/properties/villa-2-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1845,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1435,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 820,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -165,29 +165,29 @@
       "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-3-ext.jpg",
-      "/assets/properties/villa-3-living.jpg",
-      "/assets/properties/villa-3-bed.jpg",
-      "/assets/properties/villa-3-aerial.jpg"
+      "./assets/properties/villa-3-ext.jpg",
+      "./assets/properties/villa-3-living.jpg",
+      "./assets/properties/villa-3-bed.jpg",
+      "./assets/properties/villa-3-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1530,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1190,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 680,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -234,29 +234,29 @@
       "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-4-ext.jpg",
-      "/assets/properties/villa-4-living.jpg",
-      "/assets/properties/villa-4-bed.jpg",
-      "/assets/properties/villa-4-aerial.jpg"
+      "./assets/properties/villa-4-ext.jpg",
+      "./assets/properties/villa-4-living.jpg",
+      "./assets/properties/villa-4-bed.jpg",
+      "./assets/properties/villa-4-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1373,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1068,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 610,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -299,29 +299,29 @@
       "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-5-ext.jpg",
-      "/assets/properties/villa-5-living.jpg",
-      "/assets/properties/villa-5-bed.jpg",
-      "/assets/properties/villa-5-aerial.jpg"
+      "./assets/properties/villa-5-ext.jpg",
+      "./assets/properties/villa-5-living.jpg",
+      "./assets/properties/villa-5-bed.jpg",
+      "./assets/properties/villa-5-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1800,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1400,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 800,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -365,29 +365,29 @@
       "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-6-ext.jpg",
-      "/assets/properties/villa-6-living.jpg",
-      "/assets/properties/villa-6-bed.jpg",
-      "/assets/properties/villa-6-aerial.jpg"
+      "./assets/properties/villa-6-ext.jpg",
+      "./assets/properties/villa-6-living.jpg",
+      "./assets/properties/villa-6-bed.jpg",
+      "./assets/properties/villa-6-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1890,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1470,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 840,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -432,29 +432,29 @@
       "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-7-ext.jpg",
-      "/assets/properties/villa-7-living.jpg",
-      "/assets/properties/villa-7-bed.jpg",
-      "/assets/properties/villa-7-aerial.jpg"
+      "./assets/properties/villa-7-ext.jpg",
+      "./assets/properties/villa-7-living.jpg",
+      "./assets/properties/villa-7-bed.jpg",
+      "./assets/properties/villa-7-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 990,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 770,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 440,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -500,29 +500,29 @@
       "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-8-ext.jpg",
-      "/assets/properties/villa-8-living.jpg",
-      "/assets/properties/villa-8-bed.jpg",
-      "/assets/properties/villa-8-aerial.jpg"
+      "./assets/properties/villa-8-ext.jpg",
+      "./assets/properties/villa-8-living.jpg",
+      "./assets/properties/villa-8-bed.jpg",
+      "./assets/properties/villa-8-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1890,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1470,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 840,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -569,29 +569,29 @@
       "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-9-ext.jpg",
-      "/assets/properties/villa-9-living.jpg",
-      "/assets/properties/villa-9-bed.jpg",
-      "/assets/properties/villa-9-aerial.jpg"
+      "./assets/properties/villa-9-ext.jpg",
+      "./assets/properties/villa-9-living.jpg",
+      "./assets/properties/villa-9-bed.jpg",
+      "./assets/properties/villa-9-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1710,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1330,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 760,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -634,29 +634,29 @@
       "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-10-ext.jpg",
-      "/assets/properties/villa-10-living.jpg",
-      "/assets/properties/villa-10-bed.jpg",
-      "/assets/properties/villa-10-aerial.jpg"
+      "./assets/properties/villa-10-ext.jpg",
+      "./assets/properties/villa-10-living.jpg",
+      "./assets/properties/villa-10-bed.jpg",
+      "./assets/properties/villa-10-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1575,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1225,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 700,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -700,29 +700,29 @@
       "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-11-ext.jpg",
-      "/assets/properties/villa-11-living.jpg",
-      "/assets/properties/villa-11-bed.jpg",
-      "/assets/properties/villa-11-aerial.jpg"
+      "./assets/properties/villa-11-ext.jpg",
+      "./assets/properties/villa-11-living.jpg",
+      "./assets/properties/villa-11-bed.jpg",
+      "./assets/properties/villa-11-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1440,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1120,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 640,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -767,29 +767,29 @@
       "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-12-ext.jpg",
-      "/assets/properties/villa-12-living.jpg",
-      "/assets/properties/villa-12-bed.jpg",
-      "/assets/properties/villa-12-aerial.jpg"
+      "./assets/properties/villa-12-ext.jpg",
+      "./assets/properties/villa-12-living.jpg",
+      "./assets/properties/villa-12-bed.jpg",
+      "./assets/properties/villa-12-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1620,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1260,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 720,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -835,29 +835,29 @@
       "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-1-ext.jpg",
-      "/assets/properties/villa-1-living.jpg",
-      "/assets/properties/villa-1-bed.jpg",
-      "/assets/properties/villa-1-aerial.jpg"
+      "./assets/properties/villa-1-ext.jpg",
+      "./assets/properties/villa-1-living.jpg",
+      "./assets/properties/villa-1-bed.jpg",
+      "./assets/properties/villa-1-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1823,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1418,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 810,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -904,29 +904,29 @@
       "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-2-ext.jpg",
-      "/assets/properties/villa-2-living.jpg",
-      "/assets/properties/villa-2-bed.jpg",
-      "/assets/properties/villa-2-aerial.jpg"
+      "./assets/properties/villa-2-ext.jpg",
+      "./assets/properties/villa-2-living.jpg",
+      "./assets/properties/villa-2-bed.jpg",
+      "./assets/properties/villa-2-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1035,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 805,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 460,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -969,29 +969,29 @@
       "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-3-ext.jpg",
-      "/assets/properties/villa-3-living.jpg",
-      "/assets/properties/villa-3-bed.jpg",
-      "/assets/properties/villa-3-aerial.jpg"
+      "./assets/properties/villa-3-ext.jpg",
+      "./assets/properties/villa-3-living.jpg",
+      "./assets/properties/villa-3-bed.jpg",
+      "./assets/properties/villa-3-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 2160,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1680,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 960,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1035,29 +1035,29 @@
       "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-4-ext.jpg",
-      "/assets/properties/villa-4-living.jpg",
-      "/assets/properties/villa-4-bed.jpg",
-      "/assets/properties/villa-4-aerial.jpg"
+      "./assets/properties/villa-4-ext.jpg",
+      "./assets/properties/villa-4-living.jpg",
+      "./assets/properties/villa-4-bed.jpg",
+      "./assets/properties/villa-4-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1778,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1383,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 790,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1102,29 +1102,29 @@
       "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-5-ext.jpg",
-      "/assets/properties/villa-5-living.jpg",
-      "/assets/properties/villa-5-bed.jpg",
-      "/assets/properties/villa-5-aerial.jpg"
+      "./assets/properties/villa-5-ext.jpg",
+      "./assets/properties/villa-5-living.jpg",
+      "./assets/properties/villa-5-bed.jpg",
+      "./assets/properties/villa-5-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1620,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1260,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 720,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1170,29 +1170,29 @@
       "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-6-ext.jpg",
-      "/assets/properties/villa-6-living.jpg",
-      "/assets/properties/villa-6-bed.jpg",
-      "/assets/properties/villa-6-aerial.jpg"
+      "./assets/properties/villa-6-ext.jpg",
+      "./assets/properties/villa-6-living.jpg",
+      "./assets/properties/villa-6-bed.jpg",
+      "./assets/properties/villa-6-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1305,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1015,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 580,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1239,29 +1239,29 @@
       "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-7-ext.jpg",
-      "/assets/properties/villa-7-living.jpg",
-      "/assets/properties/villa-7-bed.jpg",
-      "/assets/properties/villa-7-aerial.jpg"
+      "./assets/properties/villa-7-ext.jpg",
+      "./assets/properties/villa-7-living.jpg",
+      "./assets/properties/villa-7-bed.jpg",
+      "./assets/properties/villa-7-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1710,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1330,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 760,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1304,29 +1304,29 @@
       "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-8-ext.jpg",
-      "/assets/properties/villa-8-living.jpg",
-      "/assets/properties/villa-8-bed.jpg",
-      "/assets/properties/villa-8-aerial.jpg"
+      "./assets/properties/villa-8-ext.jpg",
+      "./assets/properties/villa-8-living.jpg",
+      "./assets/properties/villa-8-bed.jpg",
+      "./assets/properties/villa-8-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1755,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1365,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 780,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1370,29 +1370,29 @@
       "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-9-ext.jpg",
-      "/assets/properties/villa-9-living.jpg",
-      "/assets/properties/villa-9-bed.jpg",
-      "/assets/properties/villa-9-aerial.jpg"
+      "./assets/properties/villa-9-ext.jpg",
+      "./assets/properties/villa-9-living.jpg",
+      "./assets/properties/villa-9-bed.jpg",
+      "./assets/properties/villa-9-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 945,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 735,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 420,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1437,29 +1437,29 @@
       "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-10-ext.jpg",
-      "/assets/properties/villa-10-living.jpg",
-      "/assets/properties/villa-10-bed.jpg",
-      "/assets/properties/villa-10-aerial.jpg"
+      "./assets/properties/villa-10-ext.jpg",
+      "./assets/properties/villa-10-living.jpg",
+      "./assets/properties/villa-10-bed.jpg",
+      "./assets/properties/villa-10-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 2070,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1610,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 920,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1505,29 +1505,29 @@
       "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-11-ext.jpg",
-      "/assets/properties/villa-11-living.jpg",
-      "/assets/properties/villa-11-bed.jpg",
-      "/assets/properties/villa-11-aerial.jpg"
+      "./assets/properties/villa-11-ext.jpg",
+      "./assets/properties/villa-11-living.jpg",
+      "./assets/properties/villa-11-bed.jpg",
+      "./assets/properties/villa-11-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1845,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1435,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 820,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1574,29 +1574,29 @@
       "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-12-ext.jpg",
-      "/assets/properties/villa-12-living.jpg",
-      "/assets/properties/villa-12-bed.jpg",
-      "/assets/properties/villa-12-aerial.jpg"
+      "./assets/properties/villa-12-ext.jpg",
+      "./assets/properties/villa-12-living.jpg",
+      "./assets/properties/villa-12-bed.jpg",
+      "./assets/properties/villa-12-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1530,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1190,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 680,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1639,29 +1639,29 @@
       "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-1-ext.jpg",
-      "/assets/properties/villa-1-living.jpg",
-      "/assets/properties/villa-1-bed.jpg",
-      "/assets/properties/villa-1-aerial.jpg"
+      "./assets/properties/villa-1-ext.jpg",
+      "./assets/properties/villa-1-living.jpg",
+      "./assets/properties/villa-1-bed.jpg",
+      "./assets/properties/villa-1-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1373,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1068,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 610,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1705,29 +1705,29 @@
       "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-2-ext.jpg",
-      "/assets/properties/villa-2-living.jpg",
-      "/assets/properties/villa-2-bed.jpg",
-      "/assets/properties/villa-2-aerial.jpg"
+      "./assets/properties/villa-2-ext.jpg",
+      "./assets/properties/villa-2-living.jpg",
+      "./assets/properties/villa-2-bed.jpg",
+      "./assets/properties/villa-2-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1800,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1400,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 800,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1772,29 +1772,29 @@
       "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-3-ext.jpg",
-      "/assets/properties/villa-3-living.jpg",
-      "/assets/properties/villa-3-bed.jpg",
-      "/assets/properties/villa-3-aerial.jpg"
+      "./assets/properties/villa-3-ext.jpg",
+      "./assets/properties/villa-3-living.jpg",
+      "./assets/properties/villa-3-bed.jpg",
+      "./assets/properties/villa-3-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1958,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1523,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 870,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1840,29 +1840,29 @@
       "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-4-ext.jpg",
-      "/assets/properties/villa-4-living.jpg",
-      "/assets/properties/villa-4-bed.jpg",
-      "/assets/properties/villa-4-aerial.jpg"
+      "./assets/properties/villa-4-ext.jpg",
+      "./assets/properties/villa-4-living.jpg",
+      "./assets/properties/villa-4-bed.jpg",
+      "./assets/properties/villa-4-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 990,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 770,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 440,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1909,29 +1909,29 @@
       "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-5-ext.jpg",
-      "/assets/properties/villa-5-living.jpg",
-      "/assets/properties/villa-5-bed.jpg",
-      "/assets/properties/villa-5-aerial.jpg"
+      "./assets/properties/villa-5-ext.jpg",
+      "./assets/properties/villa-5-living.jpg",
+      "./assets/properties/villa-5-bed.jpg",
+      "./assets/properties/villa-5-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1980,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1540,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 880,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -1974,29 +1974,29 @@
       "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-6-ext.jpg",
-      "/assets/properties/villa-6-living.jpg",
-      "/assets/properties/villa-6-bed.jpg",
-      "/assets/properties/villa-6-aerial.jpg"
+      "./assets/properties/villa-6-ext.jpg",
+      "./assets/properties/villa-6-living.jpg",
+      "./assets/properties/villa-6-bed.jpg",
+      "./assets/properties/villa-6-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1710,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1330,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 760,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2040,29 +2040,29 @@
       "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-7-ext.jpg",
-      "/assets/properties/villa-7-living.jpg",
-      "/assets/properties/villa-7-bed.jpg",
-      "/assets/properties/villa-7-aerial.jpg"
+      "./assets/properties/villa-7-ext.jpg",
+      "./assets/properties/villa-7-living.jpg",
+      "./assets/properties/villa-7-bed.jpg",
+      "./assets/properties/villa-7-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1575,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1225,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 700,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2107,29 +2107,29 @@
       "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-8-ext.jpg",
-      "/assets/properties/villa-8-living.jpg",
-      "/assets/properties/villa-8-bed.jpg",
-      "/assets/properties/villa-8-aerial.jpg"
+      "./assets/properties/villa-8-ext.jpg",
+      "./assets/properties/villa-8-living.jpg",
+      "./assets/properties/villa-8-bed.jpg",
+      "./assets/properties/villa-8-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1440,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1120,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 640,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2175,29 +2175,29 @@
       "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-9-ext.jpg",
-      "/assets/properties/villa-9-living.jpg",
-      "/assets/properties/villa-9-bed.jpg",
-      "/assets/properties/villa-9-aerial.jpg"
+      "./assets/properties/villa-9-ext.jpg",
+      "./assets/properties/villa-9-living.jpg",
+      "./assets/properties/villa-9-bed.jpg",
+      "./assets/properties/villa-9-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1620,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1260,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 720,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2244,29 +2244,29 @@
       "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-10-ext.jpg",
-      "/assets/properties/villa-10-living.jpg",
-      "/assets/properties/villa-10-bed.jpg",
-      "/assets/properties/villa-10-aerial.jpg"
+      "./assets/properties/villa-10-ext.jpg",
+      "./assets/properties/villa-10-living.jpg",
+      "./assets/properties/villa-10-bed.jpg",
+      "./assets/properties/villa-10-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1890,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1470,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 840,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2309,29 +2309,29 @@
       "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-11-ext.jpg",
-      "/assets/properties/villa-11-living.jpg",
-      "/assets/properties/villa-11-bed.jpg",
-      "/assets/properties/villa-11-aerial.jpg"
+      "./assets/properties/villa-11-ext.jpg",
+      "./assets/properties/villa-11-living.jpg",
+      "./assets/properties/villa-11-bed.jpg",
+      "./assets/properties/villa-11-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1035,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 805,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 460,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2375,29 +2375,29 @@
       "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-12-ext.jpg",
-      "/assets/properties/villa-12-living.jpg",
-      "/assets/properties/villa-12-bed.jpg",
-      "/assets/properties/villa-12-aerial.jpg"
+      "./assets/properties/villa-12-ext.jpg",
+      "./assets/properties/villa-12-living.jpg",
+      "./assets/properties/villa-12-bed.jpg",
+      "./assets/properties/villa-12-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1890,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1470,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 840,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2442,29 +2442,29 @@
       "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-1-ext.jpg",
-      "/assets/properties/villa-1-living.jpg",
-      "/assets/properties/villa-1-bed.jpg",
-      "/assets/properties/villa-1-aerial.jpg"
+      "./assets/properties/villa-1-ext.jpg",
+      "./assets/properties/villa-1-living.jpg",
+      "./assets/properties/villa-1-bed.jpg",
+      "./assets/properties/villa-1-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1778,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1383,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 790,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2510,29 +2510,29 @@
       "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-2-ext.jpg",
-      "/assets/properties/villa-2-living.jpg",
-      "/assets/properties/villa-2-bed.jpg",
-      "/assets/properties/villa-2-aerial.jpg"
+      "./assets/properties/villa-2-ext.jpg",
+      "./assets/properties/villa-2-living.jpg",
+      "./assets/properties/villa-2-bed.jpg",
+      "./assets/properties/villa-2-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1620,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1260,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 720,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2579,29 +2579,29 @@
       "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-3-ext.jpg",
-      "/assets/properties/villa-3-living.jpg",
-      "/assets/properties/villa-3-bed.jpg",
-      "/assets/properties/villa-3-aerial.jpg"
+      "./assets/properties/villa-3-ext.jpg",
+      "./assets/properties/villa-3-living.jpg",
+      "./assets/properties/villa-3-bed.jpg",
+      "./assets/properties/villa-3-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1305,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1015,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 580,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2644,29 +2644,29 @@
       "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-4-ext.jpg",
-      "/assets/properties/villa-4-living.jpg",
-      "/assets/properties/villa-4-bed.jpg",
-      "/assets/properties/villa-4-aerial.jpg"
+      "./assets/properties/villa-4-ext.jpg",
+      "./assets/properties/villa-4-living.jpg",
+      "./assets/properties/villa-4-bed.jpg",
+      "./assets/properties/villa-4-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1710,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1330,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 760,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2710,29 +2710,29 @@
       "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-5-ext.jpg",
-      "/assets/properties/villa-5-living.jpg",
-      "/assets/properties/villa-5-bed.jpg",
-      "/assets/properties/villa-5-aerial.jpg"
+      "./assets/properties/villa-5-ext.jpg",
+      "./assets/properties/villa-5-living.jpg",
+      "./assets/properties/villa-5-bed.jpg",
+      "./assets/properties/villa-5-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1823,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1418,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 810,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2777,29 +2777,29 @@
       "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-6-ext.jpg",
-      "/assets/properties/villa-6-living.jpg",
-      "/assets/properties/villa-6-bed.jpg",
-      "/assets/properties/villa-6-aerial.jpg"
+      "./assets/properties/villa-6-ext.jpg",
+      "./assets/properties/villa-6-living.jpg",
+      "./assets/properties/villa-6-bed.jpg",
+      "./assets/properties/villa-6-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 945,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 735,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 420,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2845,29 +2845,29 @@
       "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-7-ext.jpg",
-      "/assets/properties/villa-7-living.jpg",
-      "/assets/properties/villa-7-bed.jpg",
-      "/assets/properties/villa-7-aerial.jpg"
+      "./assets/properties/villa-7-ext.jpg",
+      "./assets/properties/villa-7-living.jpg",
+      "./assets/properties/villa-7-bed.jpg",
+      "./assets/properties/villa-7-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 2160,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1680,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 960,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2914,29 +2914,29 @@
       "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-8-ext.jpg",
-      "/assets/properties/villa-8-living.jpg",
-      "/assets/properties/villa-8-bed.jpg",
-      "/assets/properties/villa-8-aerial.jpg"
+      "./assets/properties/villa-8-ext.jpg",
+      "./assets/properties/villa-8-living.jpg",
+      "./assets/properties/villa-8-bed.jpg",
+      "./assets/properties/villa-8-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1845,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1435,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 820,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -2979,29 +2979,29 @@
       "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-9-ext.jpg",
-      "/assets/properties/villa-9-living.jpg",
-      "/assets/properties/villa-9-bed.jpg",
-      "/assets/properties/villa-9-aerial.jpg"
+      "./assets/properties/villa-9-ext.jpg",
+      "./assets/properties/villa-9-living.jpg",
+      "./assets/properties/villa-9-bed.jpg",
+      "./assets/properties/villa-9-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1530,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1190,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 680,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -3045,29 +3045,29 @@
       "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-10-ext.jpg",
-      "/assets/properties/villa-10-living.jpg",
-      "/assets/properties/villa-10-bed.jpg",
-      "/assets/properties/villa-10-aerial.jpg"
+      "./assets/properties/villa-10-ext.jpg",
+      "./assets/properties/villa-10-living.jpg",
+      "./assets/properties/villa-10-bed.jpg",
+      "./assets/properties/villa-10-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1373,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1068,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 610,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -3112,29 +3112,29 @@
       "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-11-ext.jpg",
-      "/assets/properties/villa-11-living.jpg",
-      "/assets/properties/villa-11-bed.jpg",
-      "/assets/properties/villa-11-aerial.jpg"
+      "./assets/properties/villa-11-ext.jpg",
+      "./assets/properties/villa-11-living.jpg",
+      "./assets/properties/villa-11-bed.jpg",
+      "./assets/properties/villa-11-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1800,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1400,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 800,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",
@@ -3180,29 +3180,29 @@
       "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
     },
     "images": [
-      "/assets/properties/villa-12-ext.jpg",
-      "/assets/properties/villa-12-living.jpg",
-      "/assets/properties/villa-12-bed.jpg",
-      "/assets/properties/villa-12-aerial.jpg"
+      "./assets/properties/villa-12-ext.jpg",
+      "./assets/properties/villa-12-living.jpg",
+      "./assets/properties/villa-12-bed.jpg",
+      "./assets/properties/villa-12-aerial.jpg"
     ],
     "floorPlans": [
       {
         "floor": "Ground Level",
         "areaSqft": 1755,
         "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
-        "image": "/assets/floorplans/plan-ground.svg"
+        "image": "./assets/floorplans/plan-ground.svg"
       },
       {
         "floor": "First Level",
         "areaSqft": 1365,
         "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
-        "image": "/assets/floorplans/plan-first.svg"
+        "image": "./assets/floorplans/plan-first.svg"
       },
       {
         "floor": "Upper Terrace & Studio",
         "areaSqft": 780,
         "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
-        "image": "/assets/floorplans/plan-roof.svg"
+        "image": "./assets/floorplans/plan-roof.svg"
       }
     ],
     "videoUrl": "https://youtu.be/jsMh07pOAy4",

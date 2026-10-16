@@ -29,7 +29,7 @@ const ECO_AMENITIES = [
       en: 'Direct waterfront frontage with a 2.5km paved walking and cycling trail, fresh lake breezes, and dedicated sunset recreation pavilions.',
       bn: '২.৫ কিলোমিটার দীর্ঘ সুরভিত হাঁটার পথ ও সাইক্লিং ট্র্যাক সহ মনোরম লেকভিউ প্রমেনেড এবং সূর্যাস্ত দর্শনের মনোরম প্যাভিলিয়ন।',
     },
-    img: '/assets/dakhina-live/beutyfication2.jpg',
+    img: './assets/dakhina-live/beutyfication2.jpg',
     metric: '2.5 KM',
     label: 'Lake Promenade',
   },
@@ -40,7 +40,7 @@ const ECO_AMENITIES = [
       en: 'Double-row shaded mahogany and rain trees along wide asphalt avenues with dedicated underground storm-water gravity drainage.',
       bn: 'উভয় পাশে সবুজ বৃক্ষশোভিত প্রশস্ত ৮০ ফুট প্রধান সড়ক এবং ভূগর্ভস্থ প্রাকৃতিক ড্রেনেজ ও ড্রেন গ্রিড।',
     },
-    img: '/assets/dakhina-live/60.jpg',
+    img: './assets/dakhina-live/60.jpg',
     metric: '80 FT',
     label: 'Arterial Road',
   },
@@ -51,7 +51,7 @@ const ECO_AMENITIES = [
       en: 'Protected green lungs with over 15,000 indigenous trees, children play meadows, and community herb gardens maintaining a 3°C cooler microclimate.',
       bn: '১৫,০০০ এর অধিক দেশীয় ফলজ ও বনজ বৃক্ষবেষ্টিত সুরক্ষিত গ্রিন বেল্ট, যা আশেপাশের ঢাকা শহরের চেয়ে ৩ ডিগ্রি শীতল পরিবেশ নিশ্চিত করে।',
     },
-    img: '/assets/dakhina-live/beutyfication.jpg',
+    img: './assets/dakhina-live/beutyfication.jpg',
     metric: '15,000+',
     label: 'Native Trees',
   },
@@ -62,7 +62,7 @@ const ECO_AMENITIES = [
       en: 'Ancient geologically consolidated Madhupur tract, situated comfortably above the 100-year Dhaka flood level with zero risk of waterlogging.',
       bn: 'ঐতিহাসিক ভাওয়াল-মধুপুর গড়ের প্রাকৃতিক লাল মাটি। শতবর্ষের বন্যা সীমার চেয়ে বহুগুণ উঁচুতে অবস্থিত হওয়ায় জলাবদ্ধতার কোনো শঙ্কা নেই।',
     },
-    img: '/assets/dakhina-live/DSCF8649.jpg',
+    img: './assets/dakhina-live/DSCF8649.jpg',
     metric: '14.5 M',
     label: 'Elevation (PWD)',
   },
@@ -102,12 +102,12 @@ const DEFENSE_ECO_REVIEWS = [
 ];
 
 const STATUTORY_GREEN_AGENCIES = [
-  { short: 'DoE', name: 'Dept of Environment', bn: 'পরিবেশ অধিদপ্তর', file: '/assets/dakhina-live/doe-150x150.png', badge: 'Eco Clearance Approved' },
-  { short: 'BWDB', name: 'Water Development Board', bn: 'পানি উন্নয়ন বোর্ড', file: '/assets/dakhina-live/wdb-150x150.png', badge: 'Hydrology Certified' },
-  { short: 'DWASA', name: 'Dhaka WASA', bn: 'ঢাকা ওয়াসা', file: '/assets/dakhina-live/wasa-150x150.png', badge: 'Natural Drainage Clear' },
-  { short: 'RAJUK', name: 'RAJUK DAP 2022-35', bn: 'রাজউক ড্যাপ', file: '/assets/dakhina-live/rajuk-150x150.jpg', badge: 'Green Homestead Zone' },
-  { short: 'POLICE', name: 'Bangladesh Police', bn: 'বাংলাদেশ পুলিশ', file: '/assets/dakhina-live/police-150x150.jpg', badge: 'Community Safety Valid' },
-  { short: 'FIRE', name: 'Fire Service & Civil Defence', bn: 'ফায়ার সার্ভিস', file: '/assets/dakhina-live/fire-150x150.png', badge: '80ft Access Grid' },
+  { short: 'DoE', name: 'Dept of Environment', bn: 'পরিবেশ অধিদপ্তর', file: './assets/dakhina-live/doe-150x150.png', badge: 'Eco Clearance Approved' },
+  { short: 'BWDB', name: 'Water Development Board', bn: 'পানি উন্নয়ন বোর্ড', file: './assets/dakhina-live/wdb-150x150.png', badge: 'Hydrology Certified' },
+  { short: 'DWASA', name: 'Dhaka WASA', bn: 'ঢাকা ওয়াসা', file: './assets/dakhina-live/wasa-150x150.png', badge: 'Natural Drainage Clear' },
+  { short: 'RAJUK', name: 'RAJUK DAP 2022-35', bn: 'রাজউক ড্যাপ', file: './assets/dakhina-live/rajuk-150x150.jpg', badge: 'Green Homestead Zone' },
+  { short: 'POLICE', name: 'Bangladesh Police', bn: 'বাংলাদেশ পুলিশ', file: './assets/dakhina-live/police-150x150.jpg', badge: 'Community Safety Valid' },
+  { short: 'FIRE', name: 'Fire Service & Civil Defence', bn: 'ফায়ার সার্ভিস', file: './assets/dakhina-live/fire-150x150.png', badge: '80ft Access Grid' },
 ];
 
 export const TropicalHome: React.FC = () => {
@@ -185,11 +185,11 @@ export const TropicalHome: React.FC = () => {
           {/* Organic Rounded Drone Hero Stage */}
           <div className="relative rounded-[2.5rem] overflow-hidden aspect-[16/9] lg:aspect-[21/9] border-2 border-[#064E3B]/20 shadow-xl group">
             <img
-              src="/assets/dakhina-live/DSCF8648.jpg"
+              src="./assets/dakhina-live/DSCF8648.jpg"
               alt="Dakhina City Lakeview Drone"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-102"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/dakhina-live/beutyfication2.jpg';
+                (e.target as HTMLImageElement).src = './assets/dakhina-live/beutyfication2.jpg';
               }}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-[#062E25]/90 via-[#062E25]/40 to-transparent" />
@@ -581,7 +581,7 @@ export const TropicalHome: React.FC = () => {
                   alt={prop.title}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-live/DSCF8649.jpg';
                   }}
                 />
                 <div className="absolute top-3 left-3 px-3 py-1 rounded-full bg-white/90 backdrop-blur-md text-[#064E3B] text-[10px] font-mono font-bold uppercase shadow-sm">

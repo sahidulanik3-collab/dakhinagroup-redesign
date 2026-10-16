@@ -31,13 +31,13 @@ export const DrelVideoSection: React.FC = () => {
         <div className="relative rounded-3xl overflow-hidden shadow-2xl border-2 border-[#128341]/20 bg-black group aspect-[16/9] sm:aspect-[21/9] max-h-[520px]">
           {/* Main Visual */}
           <img
-            src="/assets/dakhina-live/drel-1024x440.jpg"
+            src="./assets/dakhina-live/drel-1024x440.jpg"
             alt="DREL - Dakhina Real Estate Limited Iconic Landmark"
             loading="lazy"
             decoding="async"
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             onError={(e) => {
-              (e.target as HTMLImageElement).src = '/assets/dakhina-live/drel.jpg';
+              (e.target as HTMLImageElement).src = './assets/dakhina-live/drel.jpg';
             }}
           />
 

@@ -15,12 +15,12 @@ export const DakhinaCity: React.FC = () => {
   const [selectedGalleryImg, setSelectedGalleryImg] = useState<string | null>(null);
 
   const galleryImages = [
-    { title: 'Central 100ft Boulevard Access Road', src: '/assets/site-road.jpg' },
-    { title: 'Sector 4 Ground Grading & Development', src: '/assets/project-work.jpg' },
-    { title: 'Dakhina City Masterplanned Gateway', src: '/assets/drel-banner.jpg' },
-    { title: 'Lakefront Villa Waterfront View', src: '/assets/properties/villa-1-ext.jpg' },
-    { title: 'Luxury Contemporary Residence', src: '/assets/properties/villa-2-ext.jpg' },
-    { title: 'Phase 1 Demarcation Handover', src: '/assets/properties/villa-4-ext.jpg' },
+    { title: 'Central 100ft Boulevard Access Road', src: './assets/site-road.jpg' },
+    { title: 'Sector 4 Ground Grading & Development', src: './assets/project-work.jpg' },
+    { title: 'Dakhina City Masterplanned Gateway', src: './assets/drel-banner.jpg' },
+    { title: 'Lakefront Villa Waterfront View', src: './assets/properties/villa-1-ext.jpg' },
+    { title: 'Luxury Contemporary Residence', src: './assets/properties/villa-2-ext.jpg' },
+    { title: 'Phase 1 Demarcation Handover', src: './assets/properties/villa-4-ext.jpg' },
   ];
 
   const whyChooseReasons = [
@@ -228,7 +228,7 @@ export const DakhinaCity: React.FC = () => {
                 src={img.src}
                 alt={img.title}
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                  (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
                 }}
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
@@ -264,7 +264,7 @@ export const DakhinaCity: React.FC = () => {
               src={selectedGalleryImg}
               alt="Dakhina City Gallery"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="max-w-full max-h-[85vh] object-contain rounded-xl shadow-2xl"
             />

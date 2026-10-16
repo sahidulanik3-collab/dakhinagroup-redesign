@@ -53,7 +53,7 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ property, className 
             alt={property.title}
             loading="lazy"
             onError={(e) => {
-              (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+              (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
             }}
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
@@ -159,7 +159,7 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ property, className 
               alt={property.title}
               loading="lazy"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-108"
             />
@@ -263,7 +263,7 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ property, className 
               alt={property.title}
               loading="lazy"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
@@ -356,7 +356,7 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ property, className 
               alt={property.title}
               loading="lazy"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -457,7 +457,7 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ property, className 
             alt={property.title}
             loading="lazy"
             onError={(e) => {
-              (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+              (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
             }}
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-108"
           />

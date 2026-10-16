@@ -84,14 +84,14 @@ const DEFENSE_HONOR_VIP = [
 ];
 
 const AGENCIES = [
-  { short: 'BWDB', name: 'Water Development Board', bnName: 'পানি উন্নয়ন বোর্ড', logo: '/assets/dakhina-live/wdb-150x150.png', memo: 'Clearance #HYD-409/08' },
-  { short: 'DWASA', name: 'Dhaka WASA', bnName: 'ঢাকা ওয়াসা', logo: '/assets/dakhina-live/wasa-150x150.png', memo: 'Water Grid Approved' },
-  { short: 'POLICE', name: 'Bangladesh Police', bnName: 'বাংলাদেশ পুলিশ', logo: '/assets/dakhina-live/police-150x150.jpg', memo: 'Security Clearance' },
-  { short: 'RAJUK', name: 'RAJUK DAP 2022-35', bnName: 'রাজউক ড্যাপ', logo: '/assets/dakhina-live/rajuk-150x150.jpg', memo: 'Homestead Masterplan' },
-  { short: 'TITAS', name: 'Titas Gas Grid', bnName: 'তিতাস গ্যাস', logo: '/assets/dakhina-live/titas-150x150.jpeg', memo: 'Energy Corridor' },
-  { short: 'FSCD', name: 'Fire Service & Civil Defence', bnName: 'ফায়ার সার্ভিস', logo: '/assets/dakhina-live/fire-150x150.png', memo: '80ft Road Clearance' },
-  { short: 'DoE', name: 'Dept of Environment', bnName: 'পরিবেশ অধিদপ্তর', logo: '/assets/dakhina-live/doe-150x150.png', memo: 'Eco Hydrology Approved' },
-  { short: 'DTCA', name: 'Transport Coordination', bnName: 'ডিটিসিএ', logo: '/assets/dakhina-live/dtca-150x150.jpeg', memo: 'Expressway Integration' },
+  { short: 'BWDB', name: 'Water Development Board', bnName: 'পানি উন্নয়ন বোর্ড', logo: './assets/dakhina-live/wdb-150x150.png', memo: 'Clearance #HYD-409/08' },
+  { short: 'DWASA', name: 'Dhaka WASA', bnName: 'ঢাকা ওয়াসা', logo: './assets/dakhina-live/wasa-150x150.png', memo: 'Water Grid Approved' },
+  { short: 'POLICE', name: 'Bangladesh Police', bnName: 'বাংলাদেশ পুলিশ', logo: './assets/dakhina-live/police-150x150.jpg', memo: 'Security Clearance' },
+  { short: 'RAJUK', name: 'RAJUK DAP 2022-35', bnName: 'রাজউক ড্যাপ', logo: './assets/dakhina-live/rajuk-150x150.jpg', memo: 'Homestead Masterplan' },
+  { short: 'TITAS', name: 'Titas Gas Grid', bnName: 'তিতাস গ্যাস', logo: './assets/dakhina-live/titas-150x150.jpeg', memo: 'Energy Corridor' },
+  { short: 'FSCD', name: 'Fire Service & Civil Defence', bnName: 'ফায়ার সার্ভিস', logo: './assets/dakhina-live/fire-150x150.png', memo: '80ft Road Clearance' },
+  { short: 'DoE', name: 'Dept of Environment', bnName: 'পরিবেশ অধিদপ্তর', logo: './assets/dakhina-live/doe-150x150.png', memo: 'Eco Hydrology Approved' },
+  { short: 'DTCA', name: 'Transport Coordination', bnName: 'ডিটিসিএ', logo: './assets/dakhina-live/dtca-150x150.jpeg', memo: 'Expressway Integration' },
 ];
 
 export const MidnightHome: React.FC = () => {
@@ -150,7 +150,7 @@ export const MidnightHome: React.FC = () => {
               <div className="relative group shrink-0">
                 <div className="w-12 h-12 rounded-full p-1 bg-gradient-to-tr from-[#D4AF37] to-[#F3E5AB] shadow-md flex items-center justify-center">
                   <img
-                    src="/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
+                    src="./assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
                     alt="BAFWT Crest"
                     className="w-10 h-10 object-contain rounded-full bg-white p-0.5"
                   />
@@ -161,7 +161,7 @@ export const MidnightHome: React.FC = () => {
               <div className="relative group shrink-0">
                 <div className="w-12 h-12 rounded-full p-1 bg-gradient-to-tr from-[#F3E5AB] to-[#D4AF37] shadow-md flex items-center justify-center">
                   <img
-                    src="/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
+                    src="./assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
                     alt="BAF Crest"
                     className="w-10 h-10 object-contain rounded-full bg-white p-0.5"
                   />
@@ -191,11 +191,11 @@ export const MidnightHome: React.FC = () => {
           {/* Main Visual Drone Stage */}
           <div className="relative rounded-3xl overflow-hidden aspect-[16/9] lg:aspect-[21/9] border-2 border-[#D4AF37]/30 shadow-[0_0_60px_rgba(212,175,55,0.18)] group">
             <img
-              src="/assets/dakhina-live/DSCF8648.jpg"
+              src="./assets/dakhina-live/DSCF8648.jpg"
               alt="Dakhina City Midnight Drone View"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-103"
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
+                (e.target as HTMLImageElement).src = './assets/dakhina-live/DSCF8649.jpg';
               }}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-[#050811] via-[#050811]/60 to-transparent" />
@@ -519,7 +519,7 @@ export const MidnightHome: React.FC = () => {
           <div className="lg:col-span-8 p-8 sm:p-10 rounded-3xl bg-gradient-to-br from-[#0C1630] via-[#0E1C3D] to-[#080E20] border-2 border-[#D4AF37]/40 shadow-2xl relative overflow-hidden flex flex-col justify-between">
             {/* Watermark Crest */}
             <div className="absolute right-0 bottom-0 translate-x-1/4 translate-y-1/4 w-72 h-72 opacity-5 pointer-events-none">
-              <img src="/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png" alt="BAFWT Watermark" className="w-full h-full object-contain" />
+              <img src="./assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png" alt="BAFWT Watermark" className="w-full h-full object-contain" />
             </div>
 
             <div className="space-y-6 relative z-10">
@@ -608,7 +608,7 @@ export const MidnightHome: React.FC = () => {
                   alt={prop.title}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
+                    (e.target as HTMLImageElement).src = './assets/dakhina-live/DSCF8649.jpg';
                   }}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#0A1224] via-transparent to-transparent" />
@@ -698,7 +698,7 @@ export const MidnightHome: React.FC = () => {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="relative rounded-3xl overflow-hidden aspect-[21/9] sm:aspect-[24/8] border border-[#D4AF37]/40 shadow-2xl">
           <img
-            src="/assets/dakhina-live/DSCF8646.jpg"
+            src="./assets/dakhina-live/DSCF8646.jpg"
             alt="Dakhina City Mirpur Flyover Link"
             className="w-full h-full object-cover"
           />

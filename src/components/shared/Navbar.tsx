@@ -85,11 +85,11 @@ export const Navbar: React.FC = () => {
           <Link to="/" onClick={closeAll} className="flex items-center gap-3 group">
             <div className="flex items-center h-12 overflow-hidden transition-transform group-hover:scale-102">
               <img
-                src="/assets/dakhina-live/dakhina.png"
+                src="./assets/dakhina-live/dakhina.png"
                 alt="Dakhina Group - Architect of Trust"
                 className="h-10 sm:h-12 w-auto object-contain"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/assets/dakhina-brand.png';
+                  (e.target as HTMLImageElement).src = './assets/dakhina-brand.png';
                 }}
               />
             </div>

@@ -45,7 +45,7 @@ export const PropertyGalleryLightbox: React.FC<PropertyGalleryLightboxProps> = (
           src={images[currentIndex]}
           alt={`${title} - view ${currentIndex + 1}`}
           onError={(e) => {
-            (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+            (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
           }}
           className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
@@ -105,7 +105,7 @@ export const PropertyGalleryLightbox: React.FC<PropertyGalleryLightboxProps> = (
               src={img}
               alt={`Thumb ${idx + 1}`}
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="h-full w-full object-cover"
             />
@@ -136,7 +136,7 @@ export const PropertyGalleryLightbox: React.FC<PropertyGalleryLightboxProps> = (
               src={images[currentIndex]}
               alt={`${title} large view`}
               onError={(e) => {
-                (e.target as HTMLImageElement).src = '/assets/properties/villa-1-ext.jpg';
+                (e.target as HTMLImageElement).src = './assets/properties/villa-1-ext.jpg';
               }}
               className="max-h-[80vh] max-w-full object-contain rounded-lg shadow-2xl"
             />
