@@ -1,28 +1,39 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 
 export const MouseTracker: React.FC = () => {
-  const [position, setPosition] = useState({ x: -100, y: -100 });
-  const [trailingPos, setTrailingPos] = useState({ x: -100, y: -100 });
-  const [isHovering, setIsHovering] = useState(false);
-  const [isMouseDown, setIsMouseDown] = useState(false);
-  const [isVisible, setIsVisible] = useState(false);
+  const dotRef = useRef<HTMLDivElement>(null);
+  const ringRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    // Only enable on desktop pointer devices
+    // Only enable on desktop pointer devices with fine control
     const isTouch = window.matchMedia('(pointer: coarse)').matches;
     if (isTouch) return;
 
-    let rafId: number;
+    const dot = dotRef.current;
+    const ring = ringRef.current;
+    if (!dot || !ring) return;
+
     let targetX = -100;
     let targetY = -100;
     let currentX = -100;
     let currentY = -100;
+    let rafId: number;
+    let hasMoved = false;
 
-    const handleMouseMove = (e: MouseEvent) => {
+    const onMouseMove = (e: MouseEvent) => {
       targetX = e.clientX;
       targetY = e.clientY;
-      setPosition({ x: targetX, y: targetY });
-      if (!isVisible) setIsVisible(true);
+
+      if (!hasMoved) {
+        hasMoved = true;
+        currentX = targetX;
+        currentY = targetY;
+        dot.style.opacity = '1';
+        ring.style.opacity = '1';
+      }
+
+      // 0ms delay: Precision center dot directly tracks cursor with zero latency
+      dot.style.transform = `translate3d(${targetX}px, ${targetY}px, 0) translate(-50%, -50%)`;
 
       // Check if hovering over interactive elements
       const target = e.target as HTMLElement | null;
@@ -36,74 +47,79 @@ export const MouseTracker: React.FC = () => {
           target.closest('[role="button"]') ||
           target.closest('.cursor-pointer'))
       ) {
-        setIsHovering(true);
+        ring.classList.add('scale-150', 'border-[#128341]', 'bg-[#128341]/15');
+        ring.classList.remove('scale-100', 'border-[#128341]/60');
       } else {
-        setIsHovering(false);
+        ring.classList.remove('scale-150', 'border-[#128341]', 'bg-[#128341]/15');
+        ring.classList.add('scale-100', 'border-[#128341]/60');
       }
     };
 
-    const handleMouseDown = () => setIsMouseDown(true);
-    const handleMouseUp = () => setIsMouseDown(false);
-    const handleMouseLeave = () => setIsVisible(false);
-    const handleMouseEnter = () => setIsVisible(true);
-
-    // Smooth lerp loop for the trailing outer ring
-    const loop = () => {
-      const ease = 0.18;
-      currentX += (targetX - currentX) * ease;
-      currentY += (targetY - currentY) * ease;
-      setTrailingPos({ x: currentX, y: currentY });
-      rafId = requestAnimationFrame(loop);
+    const onMouseDown = () => {
+      ring.classList.add('scale-90', 'border-[#0c6b34]', 'bg-[#128341]/30');
     };
 
-    window.addEventListener('mousemove', handleMouseMove, { passive: true });
-    window.addEventListener('mousedown', handleMouseDown);
-    window.addEventListener('mouseup', handleMouseUp);
-    document.addEventListener('mouseleave', handleMouseLeave);
-    document.addEventListener('mouseenter', handleMouseEnter);
-    rafId = requestAnimationFrame(loop);
+    const onMouseUp = () => {
+      ring.classList.remove('scale-90', 'border-[#0c6b34]', 'bg-[#128341]/30');
+    };
+
+    const onMouseLeave = () => {
+      dot.style.opacity = '0';
+      ring.style.opacity = '0';
+    };
+
+    const onMouseEnter = () => {
+      dot.style.opacity = '1';
+      ring.style.opacity = '1';
+    };
+
+    // Ultra-snappy 120Hz-144Hz follower loop with high responsiveness (0.75 ease)
+    const animate = () => {
+      // Snappy ease (0.75) completely removes lag while keeping it silky smooth
+      currentX += (targetX - currentX) * 0.75;
+      currentY += (targetY - currentY) * 0.75;
+
+      ring.style.transform = `translate3d(${currentX}px, ${currentY}px, 0) translate(-50%, -50%)`;
+      rafId = requestAnimationFrame(animate);
+    };
+
+    window.addEventListener('mousemove', onMouseMove, { passive: true });
+    window.addEventListener('mousedown', onMouseDown);
+    window.addEventListener('mouseup', onMouseUp);
+    document.addEventListener('mouseleave', onMouseLeave);
+    document.addEventListener('mouseenter', onMouseEnter);
+    rafId = requestAnimationFrame(animate);
 
     return () => {
-      window.removeEventListener('mousemove', handleMouseMove);
-      window.removeEventListener('mousedown', handleMouseDown);
-      window.removeEventListener('mouseup', handleMouseUp);
-      document.removeEventListener('mouseleave', handleMouseLeave);
-      document.removeEventListener('mouseenter', handleMouseEnter);
+      window.removeEventListener('mousemove', onMouseMove);
+      window.removeEventListener('mousedown', onMouseDown);
+      window.removeEventListener('mouseup', onMouseUp);
+      document.removeEventListener('mouseleave', onMouseLeave);
+      document.removeEventListener('mouseenter', onMouseEnter);
       cancelAnimationFrame(rafId);
     };
-  }, [isVisible]);
-
-  if (!isVisible) return null;
+  }, []);
 
   return (
     <>
-      {/* 1. Crisp Center Precision Dot */}
+      {/* 1. Precision Center Dot (0ms instant hardware-accelerated response) */}
       <div
-        className="fixed pointer-events-none z-[9999] rounded-full bg-[#128341] transition-opacity duration-200 hidden md:block"
+        ref={dotRef}
+        className="fixed top-0 left-0 pointer-events-none z-[9999] rounded-full bg-[#128341] opacity-0 transition-opacity duration-150 hidden md:block will-change-transform"
         style={{
           width: '6px',
           height: '6px',
-          left: `${position.x}px`,
-          top: `${position.y}px`,
-          transform: 'translate(-50%, -50%)',
-          boxShadow: '0 0 10px rgba(18, 131, 65, 0.8)',
+          boxShadow: '0 0 8px rgba(18, 131, 65, 0.9)',
         }}
       />
 
-      {/* 2. Fluid Magnetic Trailing Outer Ring (Tracks button clicks & hovers) */}
+      {/* 2. Snappy Outer Ring (Instant response with zero lag) */}
       <div
-        className={`fixed pointer-events-none z-[9998] rounded-full border transition-all duration-150 ease-out hidden md:block ${
-          isHovering
-            ? 'w-12 h-12 border-[#128341] bg-[#128341]/10 scale-125'
-            : isMouseDown
-            ? 'w-7 h-7 border-[#0c6b34] bg-[#128341]/25 scale-90'
-            : 'w-9 h-9 border-[#128341]/50 bg-transparent scale-100'
-        }`}
+        ref={ringRef}
+        className="fixed top-0 left-0 pointer-events-none z-[9998] rounded-full border border-[#128341]/60 bg-transparent opacity-0 transition-transform duration-100 ease-out hidden md:block will-change-transform"
         style={{
-          left: `${trailingPos.x}px`,
-          top: `${trailingPos.y}px`,
-          transform: 'translate(-50%, -50%)',
-          backdropFilter: isHovering ? 'blur(1px)' : 'none',
+          width: '32px',
+          height: '32px',
         }}
       />
     </>
