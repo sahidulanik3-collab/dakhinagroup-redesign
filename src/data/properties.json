@@ -1,0 +1,3218 @@
+[
+  {
+    "id": "dak-prop-01",
+    "slug": "padma-lakeview-villa-1",
+    "title": "Padma Lakeview Villa I",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 28000000,
+    "pricePerSqft": 6364,
+    "landSizeKatha": 6,
+    "builtAreaSqft": 4400,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Inspired by gentle river vistas and expansive open decks. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-1-ext.jpg",
+      "/assets/properties/villa-1-living.jpg",
+      "/assets/properties/villa-1-bed.jpg",
+      "/assets/properties/villa-1-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1980,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1540,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 880,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8357,
+      "lng": 90.3167
+    },
+    "featured": true,
+    "createdAt": "2024-02-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-02",
+    "slug": "meghna-garden-villa-2",
+    "title": "Meghna Garden Villa I",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 24400000,
+    "pricePerSqft": 5951,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 4100,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "A sanctuary of morning light, cross-ventilation, and dual master suites. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-2-ext.jpg",
+      "/assets/properties/villa-2-living.jpg",
+      "/assets/properties/villa-2-bed.jpg",
+      "/assets/properties/villa-2-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1845,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1435,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 820,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8369,
+      "lng": 90.3182
+    },
+    "featured": false,
+    "createdAt": "2024-03-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-03",
+    "slug": "jamuna-duplex-villa-3",
+    "title": "Jamuna Duplex Villa I",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 22200000,
+    "pricePerSqft": 6529,
+    "landSizeKatha": 4.5,
+    "builtAreaSqft": 3400,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Grand architectural proportion with soaring double-height ceilings. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-3-ext.jpg",
+      "/assets/properties/villa-3-living.jpg",
+      "/assets/properties/villa-3-bed.jpg",
+      "/assets/properties/villa-3-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1530,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1190,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 680,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.838099999999997,
+      "lng": 90.3197
+    },
+    "featured": false,
+    "createdAt": "2024-04-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-04",
+    "slug": "karnafuli-twin-villa-4",
+    "title": "Karnafuli Twin Villa I",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 16800000,
+    "pricePerSqft": 5508,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 3050,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Modern cantilevered terraces overlooking manicured green belts. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-4-ext.jpg",
+      "/assets/properties/villa-4-living.jpg",
+      "/assets/properties/villa-4-bed.jpg",
+      "/assets/properties/villa-4-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1373,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1068,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 610,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.839299999999998,
+      "lng": 90.3212
+    },
+    "featured": false,
+    "createdAt": "2024-05-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-05",
+    "slug": "surma-courtyard-villa-5",
+    "title": "Surma Courtyard Villa I",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 22600000,
+    "pricePerSqft": 5650,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4000,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Intimate courtyards and skylights fostering natural illumination. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-5-ext.jpg",
+      "/assets/properties/villa-5-living.jpg",
+      "/assets/properties/villa-5-bed.jpg",
+      "/assets/properties/villa-5-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1800,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1400,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 800,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8405,
+      "lng": 90.3227
+    },
+    "featured": true,
+    "createdAt": "2024-06-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-06",
+    "slug": "sangu-corner-villa-6",
+    "title": "Sangu Corner Villa I",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 25300000,
+    "pricePerSqft": 6024,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 4200,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Pebblestone walkways, private lap pool, and solar-paneled pergola. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-6-ext.jpg",
+      "/assets/properties/villa-6-living.jpg",
+      "/assets/properties/villa-6-bed.jpg",
+      "/assets/properties/villa-6-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1890,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1470,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 840,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8417,
+      "lng": 90.3242
+    },
+    "featured": false,
+    "createdAt": "2024-07-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-07",
+    "slug": "teesta-cottage-studio-7",
+    "title": "Teesta Cottage Studio I",
+    "category": "Cottage Studio",
+    "status": "upcoming",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 15300000,
+    "pricePerSqft": 6955,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 2200,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Corner placement offering 270-degree panorama of Dakhina City. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional cottage studio integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-7-ext.jpg",
+      "/assets/properties/villa-7-living.jpg",
+      "/assets/properties/villa-7-bed.jpg",
+      "/assets/properties/villa-7-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 990,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 770,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 440,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8429,
+      "lng": 90.3257
+    },
+    "featured": false,
+    "createdAt": "2024-08-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-08",
+    "slug": "rupsha-lakeview-villa-8",
+    "title": "Rupsha Lakeview Villa II",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 31000000,
+    "pricePerSqft": 7381,
+    "landSizeKatha": 6.5,
+    "builtAreaSqft": 4200,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Minimalist glass pavilions nestled amidst lush native fruit trees. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-8-ext.jpg",
+      "/assets/properties/villa-8-living.jpg",
+      "/assets/properties/villa-8-bed.jpg",
+      "/assets/properties/villa-8-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1890,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1470,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 840,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.844099999999997,
+      "lng": 90.3272
+    },
+    "featured": false,
+    "createdAt": "2024-09-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-09",
+    "slug": "padma-garden-villa-9",
+    "title": "Padma Garden Villa II",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 23200000,
+    "pricePerSqft": 6105,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 3800,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Inspired by gentle river vistas and expansive open decks. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-9-ext.jpg",
+      "/assets/properties/villa-9-living.jpg",
+      "/assets/properties/villa-9-bed.jpg",
+      "/assets/properties/villa-9-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1710,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1330,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 760,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.845299999999998,
+      "lng": 90.3287
+    },
+    "featured": true,
+    "createdAt": "2024-01-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-10",
+    "slug": "meghna-duplex-villa-10",
+    "title": "Meghna Duplex Villa II",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 21300000,
+    "pricePerSqft": 6086,
+    "landSizeKatha": 4,
+    "builtAreaSqft": 3500,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "A sanctuary of morning light, cross-ventilation, and dual master suites. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-10-ext.jpg",
+      "/assets/properties/villa-10-living.jpg",
+      "/assets/properties/villa-10-bed.jpg",
+      "/assets/properties/villa-10-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1575,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1225,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 700,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8465,
+      "lng": 90.3302
+    },
+    "featured": false,
+    "createdAt": "2024-02-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-11",
+    "slug": "jamuna-twin-villa-11",
+    "title": "Jamuna Twin Villa II",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 19200000,
+    "pricePerSqft": 6000,
+    "landSizeKatha": 4,
+    "builtAreaSqft": 3200,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Grand architectural proportion with soaring double-height ceilings. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-11-ext.jpg",
+      "/assets/properties/villa-11-living.jpg",
+      "/assets/properties/villa-11-bed.jpg",
+      "/assets/properties/villa-11-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1440,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1120,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 640,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8477,
+      "lng": 90.3317
+    },
+    "featured": false,
+    "createdAt": "2024-03-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-12",
+    "slug": "karnafuli-courtyard-villa-12",
+    "title": "Karnafuli Courtyard Villa II",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 21500000,
+    "pricePerSqft": 5972,
+    "landSizeKatha": 4.5,
+    "builtAreaSqft": 3600,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Modern cantilevered terraces overlooking manicured green belts. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-12-ext.jpg",
+      "/assets/properties/villa-12-living.jpg",
+      "/assets/properties/villa-12-bed.jpg",
+      "/assets/properties/villa-12-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1620,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1260,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 720,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.848899999999997,
+      "lng": 90.3332
+    },
+    "featured": false,
+    "createdAt": "2024-04-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-13",
+    "slug": "surma-corner-villa-13",
+    "title": "Surma Corner Villa II",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 27900000,
+    "pricePerSqft": 6889,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4050,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Intimate courtyards and skylights fostering natural illumination. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-1-ext.jpg",
+      "/assets/properties/villa-1-living.jpg",
+      "/assets/properties/villa-1-bed.jpg",
+      "/assets/properties/villa-1-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1823,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1418,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 810,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.850099999999998,
+      "lng": 90.3347
+    },
+    "featured": true,
+    "createdAt": "2024-05-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-14",
+    "slug": "sangu-cottage-studio-14",
+    "title": "Sangu Cottage Studio II",
+    "category": "Cottage Studio",
+    "status": "upcoming",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 14700000,
+    "pricePerSqft": 6391,
+    "landSizeKatha": 3,
+    "builtAreaSqft": 2300,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Pebblestone walkways, private lap pool, and solar-paneled pergola. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional cottage studio integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-2-ext.jpg",
+      "/assets/properties/villa-2-living.jpg",
+      "/assets/properties/villa-2-bed.jpg",
+      "/assets/properties/villa-2-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1035,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 805,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 460,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8513,
+      "lng": 90.31620000000001
+    },
+    "featured": false,
+    "createdAt": "2024-06-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-15",
+    "slug": "teesta-lakeview-villa-15",
+    "title": "Teesta Lakeview Villa II",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 26500000,
+    "pricePerSqft": 5521,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4800,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Corner placement offering 270-degree panorama of Dakhina City. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-3-ext.jpg",
+      "/assets/properties/villa-3-living.jpg",
+      "/assets/properties/villa-3-bed.jpg",
+      "/assets/properties/villa-3-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 2160,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1680,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 960,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8525,
+      "lng": 90.3177
+    },
+    "featured": false,
+    "createdAt": "2024-07-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-16",
+    "slug": "rupsha-garden-villa-16",
+    "title": "Rupsha Garden Villa II",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 22000000,
+    "pricePerSqft": 5570,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 3950,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Minimalist glass pavilions nestled amidst lush native fruit trees. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-4-ext.jpg",
+      "/assets/properties/villa-4-living.jpg",
+      "/assets/properties/villa-4-bed.jpg",
+      "/assets/properties/villa-4-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1778,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1383,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 790,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8537,
+      "lng": 90.31920000000001
+    },
+    "featured": false,
+    "createdAt": "2024-08-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-17",
+    "slug": "padma-duplex-villa-17",
+    "title": "Padma Duplex Villa II",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 20400000,
+    "pricePerSqft": 5667,
+    "landSizeKatha": 4.5,
+    "builtAreaSqft": 3600,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Inspired by gentle river vistas and expansive open decks. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-5-ext.jpg",
+      "/assets/properties/villa-5-living.jpg",
+      "/assets/properties/villa-5-bed.jpg",
+      "/assets/properties/villa-5-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1620,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1260,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 720,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.834899999999998,
+      "lng": 90.3207
+    },
+    "featured": true,
+    "createdAt": "2024-09-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-18",
+    "slug": "meghna-twin-villa-18",
+    "title": "Meghna Twin Villa II",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 18400000,
+    "pricePerSqft": 6345,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 2900,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "A sanctuary of morning light, cross-ventilation, and dual master suites. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-6-ext.jpg",
+      "/assets/properties/villa-6-living.jpg",
+      "/assets/properties/villa-6-bed.jpg",
+      "/assets/properties/villa-6-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1305,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1015,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 580,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8361,
+      "lng": 90.32220000000001
+    },
+    "featured": false,
+    "createdAt": "2024-01-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-19",
+    "slug": "jamuna-courtyard-villa-19",
+    "title": "Jamuna Courtyard Villa II",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 24800000,
+    "pricePerSqft": 6526,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 3800,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Grand architectural proportion with soaring double-height ceilings. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-7-ext.jpg",
+      "/assets/properties/villa-7-living.jpg",
+      "/assets/properties/villa-7-bed.jpg",
+      "/assets/properties/villa-7-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1710,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1330,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 760,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8373,
+      "lng": 90.3237
+    },
+    "featured": false,
+    "createdAt": "2024-02-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-20",
+    "slug": "karnafuli-corner-villa-20",
+    "title": "Karnafuli Corner Villa II",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 24000000,
+    "pricePerSqft": 6154,
+    "landSizeKatha": 6,
+    "builtAreaSqft": 3900,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Modern cantilevered terraces overlooking manicured green belts. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-8-ext.jpg",
+      "/assets/properties/villa-8-living.jpg",
+      "/assets/properties/villa-8-bed.jpg",
+      "/assets/properties/villa-8-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1755,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1365,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 780,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8385,
+      "lng": 90.32520000000001
+    },
+    "featured": false,
+    "createdAt": "2024-03-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-21",
+    "slug": "surma-cottage-studio-21",
+    "title": "Surma Cottage Studio II",
+    "category": "Cottage Studio",
+    "status": "upcoming",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 14100000,
+    "pricePerSqft": 6714,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 2100,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Intimate courtyards and skylights fostering natural illumination. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional cottage studio integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-9-ext.jpg",
+      "/assets/properties/villa-9-living.jpg",
+      "/assets/properties/villa-9-bed.jpg",
+      "/assets/properties/villa-9-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 945,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 735,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 420,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.839699999999997,
+      "lng": 90.3267
+    },
+    "featured": true,
+    "createdAt": "2024-04-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-22",
+    "slug": "sangu-lakeview-villa-22",
+    "title": "Sangu Lakeview Villa II",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 29500000,
+    "pricePerSqft": 6413,
+    "landSizeKatha": 6,
+    "builtAreaSqft": 4600,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Pebblestone walkways, private lap pool, and solar-paneled pergola. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-10-ext.jpg",
+      "/assets/properties/villa-10-living.jpg",
+      "/assets/properties/villa-10-bed.jpg",
+      "/assets/properties/villa-10-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 2070,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1610,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 920,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.840899999999998,
+      "lng": 90.32820000000001
+    },
+    "featured": false,
+    "createdAt": "2024-05-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-23",
+    "slug": "teesta-garden-villa-23",
+    "title": "Teesta Garden Villa II",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 25600000,
+    "pricePerSqft": 6244,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4100,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Corner placement offering 270-degree panorama of Dakhina City. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-11-ext.jpg",
+      "/assets/properties/villa-11-living.jpg",
+      "/assets/properties/villa-11-bed.jpg",
+      "/assets/properties/villa-11-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1845,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1435,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 820,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8421,
+      "lng": 90.3297
+    },
+    "featured": false,
+    "createdAt": "2024-06-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-24",
+    "slug": "rupsha-duplex-villa-24",
+    "title": "Rupsha Duplex Villa II",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 19500000,
+    "pricePerSqft": 5735,
+    "landSizeKatha": 4,
+    "builtAreaSqft": 3400,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Minimalist glass pavilions nestled amidst lush native fruit trees. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-12-ext.jpg",
+      "/assets/properties/villa-12-living.jpg",
+      "/assets/properties/villa-12-bed.jpg",
+      "/assets/properties/villa-12-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1530,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1190,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 680,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8433,
+      "lng": 90.33120000000001
+    },
+    "featured": false,
+    "createdAt": "2024-07-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-25",
+    "slug": "padma-twin-villa-25",
+    "title": "Padma Twin Villa II",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 17600000,
+    "pricePerSqft": 5770,
+    "landSizeKatha": 4,
+    "builtAreaSqft": 3050,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Inspired by gentle river vistas and expansive open decks. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-1-ext.jpg",
+      "/assets/properties/villa-1-living.jpg",
+      "/assets/properties/villa-1-bed.jpg",
+      "/assets/properties/villa-1-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1373,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1068,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 610,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8445,
+      "lng": 90.3327
+    },
+    "featured": true,
+    "createdAt": "2024-08-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-26",
+    "slug": "meghna-courtyard-villa-26",
+    "title": "Meghna Courtyard Villa II",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 23700000,
+    "pricePerSqft": 5925,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4000,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "A sanctuary of morning light, cross-ventilation, and dual master suites. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-2-ext.jpg",
+      "/assets/properties/villa-2-living.jpg",
+      "/assets/properties/villa-2-bed.jpg",
+      "/assets/properties/villa-2-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1800,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1400,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 800,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.845699999999997,
+      "lng": 90.33420000000001
+    },
+    "featured": false,
+    "createdAt": "2024-09-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-27",
+    "slug": "jamuna-corner-villa-27",
+    "title": "Jamuna Corner Villa II",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 26600000,
+    "pricePerSqft": 6115,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 4350,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Grand architectural proportion with soaring double-height ceilings. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-3-ext.jpg",
+      "/assets/properties/villa-3-living.jpg",
+      "/assets/properties/villa-3-bed.jpg",
+      "/assets/properties/villa-3-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1958,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1523,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 870,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.846899999999998,
+      "lng": 90.3157
+    },
+    "featured": false,
+    "createdAt": "2024-01-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-28",
+    "slug": "karnafuli-cottage-studio-28",
+    "title": "Karnafuli Cottage Studio II",
+    "category": "Cottage Studio",
+    "status": "upcoming",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 13500000,
+    "pricePerSqft": 6136,
+    "landSizeKatha": 3,
+    "builtAreaSqft": 2200,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 2,
+    "parking": 1,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Modern cantilevered terraces overlooking manicured green belts. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional cottage studio integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-4-ext.jpg",
+      "/assets/properties/villa-4-living.jpg",
+      "/assets/properties/villa-4-bed.jpg",
+      "/assets/properties/villa-4-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 990,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 770,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 440,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8481,
+      "lng": 90.3172
+    },
+    "featured": false,
+    "createdAt": "2024-02-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-29",
+    "slug": "surma-lakeview-villa-29",
+    "title": "Surma Lakeview Villa II",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 32500000,
+    "pricePerSqft": 7386,
+    "landSizeKatha": 6.5,
+    "builtAreaSqft": 4400,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Intimate courtyards and skylights fostering natural illumination. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-5-ext.jpg",
+      "/assets/properties/villa-5-living.jpg",
+      "/assets/properties/villa-5-bed.jpg",
+      "/assets/properties/villa-5-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1980,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1540,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 880,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8493,
+      "lng": 90.3187
+    },
+    "featured": true,
+    "createdAt": "2024-03-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-30",
+    "slug": "sangu-garden-villa-30",
+    "title": "Sangu Garden Villa II",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 24400000,
+    "pricePerSqft": 6421,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 3800,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Pebblestone walkways, private lap pool, and solar-paneled pergola. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-6-ext.jpg",
+      "/assets/properties/villa-6-living.jpg",
+      "/assets/properties/villa-6-bed.jpg",
+      "/assets/properties/villa-6-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1710,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1330,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 760,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.850499999999997,
+      "lng": 90.3202
+    },
+    "featured": false,
+    "createdAt": "2024-04-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-31",
+    "slug": "teesta-duplex-villa-31",
+    "title": "Teesta Duplex Villa II",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 22200000,
+    "pricePerSqft": 6343,
+    "landSizeKatha": 4.5,
+    "builtAreaSqft": 3500,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Corner placement offering 270-degree panorama of Dakhina City. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-7-ext.jpg",
+      "/assets/properties/villa-7-living.jpg",
+      "/assets/properties/villa-7-bed.jpg",
+      "/assets/properties/villa-7-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1575,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1225,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 700,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.851699999999997,
+      "lng": 90.3217
+    },
+    "featured": false,
+    "createdAt": "2024-05-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-32",
+    "slug": "rupsha-twin-villa-32",
+    "title": "Rupsha Twin Villa II",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 16800000,
+    "pricePerSqft": 5250,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 3200,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Minimalist glass pavilions nestled amidst lush native fruit trees. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-8-ext.jpg",
+      "/assets/properties/villa-8-living.jpg",
+      "/assets/properties/villa-8-bed.jpg",
+      "/assets/properties/villa-8-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1440,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1120,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 640,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.852899999999998,
+      "lng": 90.3232
+    },
+    "featured": false,
+    "createdAt": "2024-06-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-33",
+    "slug": "padma-courtyard-villa-33",
+    "title": "Padma Courtyard Villa II",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 22600000,
+    "pricePerSqft": 6278,
+    "landSizeKatha": 4.5,
+    "builtAreaSqft": 3600,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Inspired by gentle river vistas and expansive open decks. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-9-ext.jpg",
+      "/assets/properties/villa-9-living.jpg",
+      "/assets/properties/villa-9-bed.jpg",
+      "/assets/properties/villa-9-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1620,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1260,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 720,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8541,
+      "lng": 90.3247
+    },
+    "featured": true,
+    "createdAt": "2024-07-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-34",
+    "slug": "meghna-corner-villa-34",
+    "title": "Meghna Corner Villa II",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 29200000,
+    "pricePerSqft": 6952,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4200,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "A sanctuary of morning light, cross-ventilation, and dual master suites. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-10-ext.jpg",
+      "/assets/properties/villa-10-living.jpg",
+      "/assets/properties/villa-10-bed.jpg",
+      "/assets/properties/villa-10-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1890,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1470,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 840,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8353,
+      "lng": 90.3262
+    },
+    "featured": false,
+    "createdAt": "2024-08-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-35",
+    "slug": "jamuna-cottage-studio-35",
+    "title": "Jamuna Cottage Studio II",
+    "category": "Cottage Studio",
+    "status": "upcoming",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 15300000,
+    "pricePerSqft": 6652,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 2300,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 2,
+    "parking": 1,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Grand architectural proportion with soaring double-height ceilings. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional cottage studio integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-11-ext.jpg",
+      "/assets/properties/villa-11-living.jpg",
+      "/assets/properties/villa-11-bed.jpg",
+      "/assets/properties/villa-11-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1035,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 805,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 460,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.836499999999997,
+      "lng": 90.32770000000001
+    },
+    "featured": false,
+    "createdAt": "2024-09-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-36",
+    "slug": "karnafuli-lakeview-villa-36",
+    "title": "Karnafuli Lakeview Villa II",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 28000000,
+    "pricePerSqft": 6667,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4200,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Modern cantilevered terraces overlooking manicured green belts. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-12-ext.jpg",
+      "/assets/properties/villa-12-living.jpg",
+      "/assets/properties/villa-12-bed.jpg",
+      "/assets/properties/villa-12-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1890,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1470,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 840,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.837699999999998,
+      "lng": 90.3292
+    },
+    "featured": false,
+    "createdAt": "2024-01-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-37",
+    "slug": "surma-garden-villa-37",
+    "title": "Surma Garden Villa II",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 23200000,
+    "pricePerSqft": 5873,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 3950,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Intimate courtyards and skylights fostering natural illumination. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-1-ext.jpg",
+      "/assets/properties/villa-1-living.jpg",
+      "/assets/properties/villa-1-bed.jpg",
+      "/assets/properties/villa-1-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1778,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1383,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 790,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8389,
+      "lng": 90.33070000000001
+    },
+    "featured": true,
+    "createdAt": "2024-02-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-38",
+    "slug": "sangu-duplex-villa-38",
+    "title": "Sangu Duplex Villa II",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 21300000,
+    "pricePerSqft": 5917,
+    "landSizeKatha": 4,
+    "builtAreaSqft": 3600,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Pebblestone walkways, private lap pool, and solar-paneled pergola. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-2-ext.jpg",
+      "/assets/properties/villa-2-living.jpg",
+      "/assets/properties/villa-2-bed.jpg",
+      "/assets/properties/villa-2-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1620,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1260,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 720,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8401,
+      "lng": 90.3322
+    },
+    "featured": false,
+    "createdAt": "2024-03-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-39",
+    "slug": "teesta-twin-villa-39",
+    "title": "Teesta Twin Villa II",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 19200000,
+    "pricePerSqft": 6621,
+    "landSizeKatha": 4,
+    "builtAreaSqft": 2900,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Corner placement offering 270-degree panorama of Dakhina City. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-3-ext.jpg",
+      "/assets/properties/villa-3-living.jpg",
+      "/assets/properties/villa-3-bed.jpg",
+      "/assets/properties/villa-3-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1305,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1015,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 580,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.841299999999997,
+      "lng": 90.33370000000001
+    },
+    "featured": false,
+    "createdAt": "2024-04-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-40",
+    "slug": "rupsha-courtyard-villa-40",
+    "title": "Rupsha Courtyard Villa II",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 21500000,
+    "pricePerSqft": 5658,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 3800,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Minimalist glass pavilions nestled amidst lush native fruit trees. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-4-ext.jpg",
+      "/assets/properties/villa-4-living.jpg",
+      "/assets/properties/villa-4-bed.jpg",
+      "/assets/properties/villa-4-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1710,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1330,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 760,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.842499999999998,
+      "lng": 90.3352
+    },
+    "featured": false,
+    "createdAt": "2024-05-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-41",
+    "slug": "padma-corner-villa-41",
+    "title": "Padma Corner Villa II",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 25300000,
+    "pricePerSqft": 6247,
+    "landSizeKatha": 6,
+    "builtAreaSqft": 4050,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Inspired by gentle river vistas and expansive open decks. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পদ্মার শান্ত রূপ ও সুবিশাল খোলা বারান্দার অনুপ্রেরণায় নির্মিত। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-5-ext.jpg",
+      "/assets/properties/villa-5-living.jpg",
+      "/assets/properties/villa-5-bed.jpg",
+      "/assets/properties/villa-5-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1823,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1418,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 810,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8437,
+      "lng": 90.3167
+    },
+    "featured": true,
+    "createdAt": "2024-06-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-42",
+    "slug": "meghna-cottage-studio-42",
+    "title": "Meghna Cottage Studio II",
+    "category": "Cottage Studio",
+    "status": "upcoming",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 14700000,
+    "pricePerSqft": 7000,
+    "landSizeKatha": 3,
+    "builtAreaSqft": 2100,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "floors": 2,
+    "parking": 1,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "A sanctuary of morning light, cross-ventilation, and dual master suites. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional cottage studio integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "ভোরের স্নিগ্ধ আলো, অবাধ বায়ুচলাচল ও জোড়া মাস্টার বেডরুমের সমন্বয়। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Cottage Studio আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-6-ext.jpg",
+      "/assets/properties/villa-6-living.jpg",
+      "/assets/properties/villa-6-bed.jpg",
+      "/assets/properties/villa-6-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 945,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 735,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 420,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8449,
+      "lng": 90.3182
+    },
+    "featured": false,
+    "createdAt": "2024-07-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-43",
+    "slug": "jamuna-lakeview-villa-43",
+    "title": "Jamuna Lakeview Villa II",
+    "category": "Lakeview Villa",
+    "status": "available",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 2, Dakhina City, Savar, Dhaka",
+    "price": 31000000,
+    "pricePerSqft": 6458,
+    "landSizeKatha": 6,
+    "builtAreaSqft": 4800,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "floors": 3,
+    "parking": 2,
+    "facing": "South",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Grand architectural proportion with soaring double-height ceilings. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional lakeview villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দ্বিগুণ উচ্চতার ছাদ ও আভিজাত্যপূর্ণ স্থাপত্যের অপূর্ব নিদর্শন। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Lakeview Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-7-ext.jpg",
+      "/assets/properties/villa-7-living.jpg",
+      "/assets/properties/villa-7-bed.jpg",
+      "/assets/properties/villa-7-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 2160,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1680,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 960,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8461,
+      "lng": 90.3197
+    },
+    "featured": false,
+    "createdAt": "2024-08-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-44",
+    "slug": "karnafuli-garden-villa-44",
+    "title": "Karnafuli Garden Villa II",
+    "category": "Garden Villa",
+    "status": "available",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 3, Dakhina City, Savar, Dhaka",
+    "price": 22000000,
+    "pricePerSqft": 5366,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 4100,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion",
+      "Underground Utility Wiring"
+    ],
+    "description": {
+      "en": "Modern cantilevered terraces overlooking manicured green belts. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional garden villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ লন ও উন্মুক্ত টেরেসের মনোরম মেলবন্ধন। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Garden Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-8-ext.jpg",
+      "/assets/properties/villa-8-living.jpg",
+      "/assets/properties/villa-8-bed.jpg",
+      "/assets/properties/villa-8-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1845,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1435,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 820,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.847299999999997,
+      "lng": 90.3212
+    },
+    "featured": false,
+    "createdAt": "2024-09-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-45",
+    "slug": "surma-duplex-villa-45",
+    "title": "Surma Duplex Villa II",
+    "category": "Duplex Villa",
+    "status": "available",
+    "project": "Dakhina City: Phase 1 (Lakeview Enclave)",
+    "locationArea": "Sector 4, Dakhina City, Savar, Dhaka",
+    "price": 20400000,
+    "pricePerSqft": 6000,
+    "landSizeKatha": 4.5,
+    "builtAreaSqft": 3400,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "South-West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport"
+    ],
+    "description": {
+      "en": "Intimate courtyards and skylights fostering natural illumination. Thoughtfully conceived inside Dakhina City: Phase 1 (Lakeview Enclave), this exceptional duplex villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "প্রাকৃতিক আলো ও নিজস্ব কোর্টইয়ার্ডের স্নিগ্ধ পরিবেশ। Dakhina City: Phase 1 (Lakeview Enclave)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Duplex Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-9-ext.jpg",
+      "/assets/properties/villa-9-living.jpg",
+      "/assets/properties/villa-9-bed.jpg",
+      "/assets/properties/villa-9-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1530,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1190,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 680,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.848499999999998,
+      "lng": 90.3227
+    },
+    "featured": true,
+    "createdAt": "2024-01-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-46",
+    "slug": "sangu-twin-villa-46",
+    "title": "Sangu Twin Villa II",
+    "category": "Twin Villa",
+    "status": "booked",
+    "project": "Dakhina City: Phase 2 (Green Valley)",
+    "locationArea": "Sector 5, Dakhina City, Savar, Dhaka",
+    "price": 18400000,
+    "pricePerSqft": 6033,
+    "landSizeKatha": 3.5,
+    "builtAreaSqft": 3050,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "floors": 2,
+    "parking": 1,
+    "facing": "East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System"
+    ],
+    "description": {
+      "en": "Pebblestone walkways, private lap pool, and solar-paneled pergola. Thoughtfully conceived inside Dakhina City: Phase 2 (Green Valley), this exceptional twin villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "পাথুরে পথ, নিজস্ব সুইমিং পুল ও সোলার পারগোলার সুবিধা। Dakhina City: Phase 2 (Green Valley)-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Twin Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-10-ext.jpg",
+      "/assets/properties/villa-10-living.jpg",
+      "/assets/properties/villa-10-bed.jpg",
+      "/assets/properties/villa-10-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1373,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1068,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 610,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8497,
+      "lng": 90.3242
+    },
+    "featured": false,
+    "createdAt": "2024-02-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-47",
+    "slug": "teesta-courtyard-villa-47",
+    "title": "Teesta Courtyard Villa II",
+    "category": "Courtyard Villa",
+    "status": "sold",
+    "project": "Dakhina Cantonment View Villas",
+    "locationArea": "Sector 6, Dakhina City, Savar, Dhaka",
+    "price": 24800000,
+    "pricePerSqft": 6200,
+    "landSizeKatha": 5.5,
+    "builtAreaSqft": 4000,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "floors": 2,
+    "parking": 1,
+    "facing": "North-East",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows"
+    ],
+    "description": {
+      "en": "Corner placement offering 270-degree panorama of Dakhina City. Thoughtfully conceived inside Dakhina Cantonment View Villas, this exceptional courtyard villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "দখিনা সিটির ২৭০ ডিগ্রি প্যানোরামিক ভিউ সম্বলিত কর্নার প্লট। Dakhina Cantonment View Villas-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Courtyard Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-11-ext.jpg",
+      "/assets/properties/villa-11-living.jpg",
+      "/assets/properties/villa-11-bed.jpg",
+      "/assets/properties/villa-11-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1800,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1400,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 800,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8509,
+      "lng": 90.3257
+    },
+    "featured": false,
+    "createdAt": "2024-03-15",
+    "demo": true
+  },
+  {
+    "id": "dak-prop-48",
+    "slug": "rupsha-corner-villa-48",
+    "title": "Rupsha Corner Villa II",
+    "category": "Corner Villa",
+    "status": "handed-over",
+    "project": "Dakhina Riverside Estates",
+    "locationArea": "Sector 1, Dakhina City, Savar, Dhaka",
+    "price": 27900000,
+    "pricePerSqft": 7154,
+    "landSizeKatha": 5,
+    "builtAreaSqft": 3900,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "floors": 3,
+    "parking": 2,
+    "facing": "West",
+    "amenities": [
+      "Lakefront Promenade Access",
+      "Private Landscaped Lawn",
+      "Solar Rooftop Grid",
+      "Smart Home Automation",
+      "Dedicated 24/7 Security Outpost",
+      "Dual Covered Carport",
+      "Rainwater Harvesting System",
+      "Double Glazed Thermal Windows",
+      "Rooftop BBQ Pavilion"
+    ],
+    "description": {
+      "en": "Minimalist glass pavilions nestled amidst lush native fruit trees. Thoughtfully conceived inside Dakhina Riverside Estates, this exceptional corner villa integrates master craftsmanship with seamless proximity to Uttara.",
+      "bn": "সবুজ বৃক্ষরাজির মাঝে আধুনিক কাঁচের প্যাভিলিয়ন স্টাইলের নান্দনিক ভিলা। Dakhina Riverside Estates-এর শান্ত ও সুপরিকল্পিত পরিবেশে নির্মিত এই অভিজাত Corner Villa আধুনিক জীবনের সকল নাগরিক সুবিধা সমৃদ্ধ।"
+    },
+    "images": [
+      "/assets/properties/villa-12-ext.jpg",
+      "/assets/properties/villa-12-living.jpg",
+      "/assets/properties/villa-12-bed.jpg",
+      "/assets/properties/villa-12-aerial.jpg"
+    ],
+    "floorPlans": [
+      {
+        "floor": "Ground Level",
+        "areaSqft": 1755,
+        "description": "Spacious foyer, grand double-height living hall, guest bedroom, dining salon, and chef kitchen",
+        "image": "/assets/floorplans/plan-ground.svg"
+      },
+      {
+        "floor": "First Level",
+        "areaSqft": 1365,
+        "description": "Primary master sanctuary with expansive walk-in closet, private balcony, and family lounge",
+        "image": "/assets/floorplans/plan-first.svg"
+      },
+      {
+        "floor": "Upper Terrace & Studio",
+        "areaSqft": 780,
+        "description": "Open sky terrace garden, entertainment pergola, and maid quarters with separate access",
+        "image": "/assets/floorplans/plan-roof.svg"
+      }
+    ],
+    "videoUrl": "https://youtu.be/jsMh07pOAy4",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=demo-dakhina",
+    "coordinates": {
+      "lat": 23.8521,
+      "lng": 90.3272
+    },
+    "featured": false,
+    "createdAt": "2024-04-15",
+    "demo": true
+  }
+]

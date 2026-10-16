@@ -1,0 +1,157 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: #FAF7F0;
+    --color-surface: #FFFFFF;
+    --color-primary: #0F3D2E;
+    --color-accent: #B8934A;
+    --color-text: #14241D;
+    --color-muted: #5C6B63;
+    --color-border: rgba(184, 147, 74, 0.28);
+  }
+
+  /* Variant 1: Heritage Luxe (Original Dakhina Green & Gold) */
+  [data-theme="heritage"] {
+    --color-bg: #FAF7F0;
+    --color-surface: #FFFFFF;
+    --color-primary: #0F3D2E;
+    --color-accent: #B8934A;
+    --color-text: #14241D;
+    --color-muted: #5C6B63;
+    --color-border: rgba(184, 147, 74, 0.35);
+    background-color: #FAF7F0;
+    background-image: radial-gradient(rgba(15, 61, 46, 0.05) 1px, transparent 1px),
+                      radial-gradient(rgba(184, 147, 74, 0.06) 1px, transparent 1px);
+    background-size: 32px 32px;
+    background-position: 0 0, 16px 16px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* Variant 2: Modern Minimal (Architectural Blueprint & Warm Stone) */
+  [data-theme="minimal"] {
+    --color-bg: #F4F1EC;
+    --color-surface: #FFFFFF;
+    --color-primary: #1C1C1C;
+    --color-accent: #C65D3B;
+    --color-text: #1C1C1C;
+    --color-muted: #717171;
+    --color-border: rgba(28, 28, 28, 0.15);
+    background-color: #F4F1EC;
+    background-image: linear-gradient(to right, rgba(28, 28, 28, 0.04) 1px, transparent 1px),
+                      linear-gradient(to bottom, rgba(28, 28, 28, 0.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+    font-family: 'Manrope', sans-serif;
+  }
+
+  /* Variant 3: Midnight Estate (Dark VIP Obsidian & Champagne Glow) */
+  [data-theme="midnight"] {
+    --color-bg: #070D18;
+    --color-surface: #111A2E;
+    --color-primary: #E8D8B0;
+    --color-accent: #B87333;
+    --color-text: #F8FAFC;
+    --color-muted: #94A3B8;
+    --color-border: rgba(232, 216, 176, 0.22);
+    background-color: #070D18;
+    background-image: radial-gradient(circle at 50% 0%, rgba(232, 216, 176, 0.1) 0%, transparent 60%),
+                      radial-gradient(circle at 80% 60%, rgba(184, 115, 51, 0.08) 0%, transparent 50%);
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* Variant 4: Tropical Resort (Lagoon Waterfront & Sand) */
+  [data-theme="tropical"] {
+    --color-bg: #F7EFE2;
+    --color-surface: #FFFFFF;
+    --color-primary: #0E7C7B;
+    --color-accent: #FF7A59;
+    --color-text: #163231;
+    --color-muted: #4F6765;
+    --color-border: rgba(14, 124, 123, 0.2);
+    background-color: #F7EFE2;
+    background-image: radial-gradient(circle at 10% 20%, rgba(14, 124, 123, 0.06) 0%, transparent 45%),
+                      radial-gradient(circle at 90% 80%, rgba(255, 122, 89, 0.06) 0%, transparent 45%);
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  /* Variant 5: Editorial Bold (Swiss / Brutalist Journal) */
+  [data-theme="editorial"] {
+    --color-bg: #EFECE6;
+    --color-surface: #FFFFFF;
+    --color-primary: #111111;
+    --color-accent: #E5391B;
+    --color-text: #111111;
+    --color-muted: #555555;
+    --color-border: #111111;
+    background-color: #EFECE6;
+    background-image: radial-gradient(#111111 0.8px, transparent 0.8px);
+    background-size: 24px 24px;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    overflow-x: hidden;
+    min-height: 100vh;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Skip to content link for accessibility */
+  .skip-link {
+    position: absolute;
+    top: -9999px;
+    left: 1rem;
+    z-index: 100;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--color-primary);
+    color: #fff;
+    border-radius: 0.25rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: top 0.2s ease;
+  }
+  .skip-link:focus {
+    top: 1rem;
+  }
+
+  /* Custom high-visibility focus ring */
+  *:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+}
+
+/* Print stylesheet for downloadable / printable brochures */
+@media print {
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+  .no-print, header, footer, #variant-switcher, .floating-actions, .cookie-banner {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .property-print-container {
+    width: 100% !important;
+    page-break-inside: avoid;
+  }
+}
+
+/* Touch targets safeguard (44px min) */
+button, a, input, select, textarea {
+  min-height: 44px;
+}
+input[type="checkbox"], input[type="radio"] {
+  min-height: 20px;
+}

@@ -1,0 +1,7 @@
+Contact: mailto:security@dakhinagroup.com
+Contact: mailto:info@dakhinagroup.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en, bn
+Canonical: https://dakhinagroup.com/.well-known/security.txt
+Policy: https://dakhinagroup.com/security-policy
+Hiring: https://dakhinagroup.com/#/career

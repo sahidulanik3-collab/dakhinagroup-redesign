@@ -1,0 +1,218 @@
+{
+  "company": {
+    "name": "Dakhina Group",
+    "legalName": "Dakhina Real Estate (Pvt.) Limited",
+    "tagline": "Architect of Trust",
+    "yearEstablished": 2004,
+    "rehabMembership": "495/2008",
+    "rehabMemberSince": "31 August 2008",
+    "address": "Dakhina Tower, 543/A ECB Chattar, Main Road, Dhaka Cantonment, Dhaka-1206",
+    "phone": "+8801407048190",
+    "email": "info@dakhinagroup.com",
+    "website": "https://dakhinagroup.com",
+    "workingHours": "Saturday - Thursday: 9:30 AM - 6:30 PM",
+    "social": {
+      "facebook": "https://www.facebook.com/DakhinaRealEstatePvtLtd/",
+      "linkedin": "https://www.linkedin.com/company/dakhinarealestatepvtltd",
+      "instagram": "https://www.instagram.com/dakhinarealestate/",
+      "youtube": "https://www.youtube.com/@dakhinarealestate"
+    }
+  },
+  "stats": [
+    {
+      "key": "totalPlots",
+      "value": 6500,
+      "suffix": "+",
+      "label": "Total Plots",
+      "description": "Master-planned residential & villa plots under Dakhina City"
+    },
+    {
+      "key": "handedOver",
+      "value": 1800,
+      "suffix": "+",
+      "label": "Handed Over Plots",
+      "description": "Successfully demarcated, registered, and handed over to proud owners"
+    },
+    {
+      "key": "pending",
+      "value": 2000,
+      "suffix": "+",
+      "label": "Ongoing Development",
+      "description": "Plots actively undergoing rapid infrastructure and road paving"
+    },
+    {
+      "key": "areaBigha",
+      "value": 1200,
+      "suffix": " Bigha",
+      "label": "Project Landbank",
+      "description": "Continuously consolidated natural high-land township"
+    }
+  ],
+  "leadership": {
+    "founder": {
+      "name": "Late Syed Panaul Haque",
+      "role": "Founder Chairman",
+      "bio": "A visionary entrepreneur whose commitment to integrity and community upliftment established the bedrock principles of Dakhina Group in 2004."
+    },
+    "chairman": {
+      "name": "Mrs. Mona Haque",
+      "role": "Chairman",
+      "bio": "Guiding the strategic vision and social responsibility missions of Dakhina Group, continuing the esteemed family heritage of trusted enterprise."
+    },
+    "managingDirector": {
+      "name": "Lt. Col. Syed Ariful Azam (Retd.)",
+      "role": "Managing Director",
+      "militaryTitle": "Lieutenant Colonel (Retired)",
+      "bio": "Following a distinguished career in the Bangladesh Armed Forces, took over executive stewardship to instill military-grade discipline, transparent documentation, and unwavering accountability."
+    },
+    "directors": [
+      {
+        "name": "Syed Tajwar Azam",
+        "role": "Director",
+        "bio": "Driving modernization, digital transformation, and sustainable architectural integration across all Dakhina City residential enclaves."
+      },
+      {
+        "name": "Syeda Salwa Azam",
+        "role": "Director",
+        "bio": "Overseeing customer relations, global expatriate outreach, and corporate social initiatives."
+      }
+    ]
+  },
+  "mdMessage": {
+    "title": "Message from Managing Director",
+    "subtitle": "Building a Future Grounded in Honor & Transparency",
+    "paragraphs": [
+      "Dakhina Real Estate (Pvt.) Limited was incorporated as a Joint Stock Company in 2004 as a private limited company. My father, the Late Syed Panaul Haque was the founder Chairman, and my wife Mona Haque was the Managing Director. After his demise, I voluntarily retired from my active service in the Bangladesh Armed Forces to take over full executive responsibility.",
+      "Dakhina City was his dream project — a family-owned business established on legal purity. Today, Mrs. Mona Haque is our Chairman, I serve as Managing Director, and Syed Tajwar Azam along with Syeda Salwa Azam serve as Directors. We commenced consolidated land procurement at this strategic location in 2004.",
+      "The legal authenticity and documentation genuineness of our project is unquestionable. We take pride in building communities where respected military officers, civil dignitaries, and expatriate families invest with absolute peace of mind."
+    ],
+    "signOff": {
+      "name": "Lt. Col. Syed Ariful Azam (Retd.)",
+      "title": "Managing Director, Dakhina Group"
+    }
+  },
+  "about": {
+    "title": "About Dakhina Group",
+    "subtitle": "The Architect of Trust in Bangladesh Real Estate",
+    "intro": "Dakhina Real Estate (Pvt) Limited (DREL) is a premier property development conglomerate dedicated to delivering master-planned townships with supreme environmental and infrastructural standards. Known throughout the country as the 'Architect of Trust', we take pride in bridging aspiration and reality.",
+    "mission": "Always delivering the dream of home through transparent legality, world-class planning, and steadfast customer satisfaction.",
+    "vision": "Serving lives and families in our communities through abundant giving, eco-conscious planning, and enduring architectural legacy.",
+    "assurance": "Your investment in Dakhina City is risk-free and generates manifold capital appreciation. We warmly invite prospective buyers to personally inspect our boundary development, wide road networks, and natural lakefront topography."
+  },
+  "projectProfile": {
+    "name": "Dakhina City",
+    "location": "Mouza Moistapara, Kumarkhoda, Bongram, Uttar Kaundia, Thana: Savar, District: Dhaka",
+    "totalArea": "1,200 Bigha (approx.)",
+    "zoning": "Rural Homestead Zone as per Detailed Area Plan (DAP 2005-2015 & DAP 2022-2035)",
+    "connectivity": "Doorstep distance from Uttara Model Town (Sector 18/Metro Rail) and Maskat Plaza, served by 3 broad arterial accessways",
+    "lakefront": "Featuring natural western water bodies with planned walking boulevards and eco-parks"
+  },
+  "respectedClients": [
+    {
+      "name": "Tawhidul Islam",
+      "title": "Major General (Retd.)",
+      "affiliation": "Bangladesh Army",
+      "quote": "Dakhina City exemplifies the highest standard of land documentation and professional ethics. Investing here provided complete confidence and legal transparency."
+    },
+    {
+      "name": "Abdul Alim Tarapder",
+      "title": "Brigadier General (Retd.)",
+      "affiliation": "Bangladesh Army",
+      "quote": "The proximity to Uttara and the planned cantonment corridors makes Dakhina Group the pre-eminent choice for senior officers seeking serene residential living."
+    },
+    {
+      "name": "Dr. Chowdhury Abdul Gaffar",
+      "title": "Brigadier General (Retd.)",
+      "affiliation": "Bangladesh Army",
+      "quote": "Their transparent approach, direct handover records, and focus on genuine physical possession place Dakhina Group in a class of their own."
+    },
+    {
+      "name": "Dr. Md Ashfaque Uzzaman",
+      "title": "Brigadier General (Retd.)",
+      "affiliation": "Bangladesh Army",
+      "quote": "A trustworthy real estate firm upholding integrity. The topography of Dakhina City is truly exceptional."
+    }
+  ],
+  "approvals": [
+    { "id": "baf", "name": "Bangladesh Air Force", "short": "BAF", "desc": "Official liaison & residential project partner" },
+    { "id": "bafwt", "name": "BAF Welfare Trust", "short": "BAFWT", "desc": "Joint welfare project coordination" },
+    { "id": "rajuk", "name": "RAJUK", "short": "RAJUK", "desc": "Detailed Area Plan (DAP) homestead alignment" },
+    { "id": "wasa", "name": "Dhaka WASA", "short": "DWASA", "desc": "Groundwater and municipal drainage clearance" },
+    { "id": "titas", "name": "Titas Gas", "short": "Titas", "desc": "Energy grid corridor compliance" },
+    { "id": "bwdb", "name": "Water Development Board", "short": "BWDB", "desc": "Hydrology & embankment safety certification" },
+    { "id": "doe", "name": "Department of Environment", "short": "DoE", "desc": "Ecological environmental clearance" },
+    { "id": "dtca", "name": "Dhaka Transport Coordination", "short": "DTCA", "desc": "Road arterial network synchronization" },
+    { "id": "police", "name": "Bangladesh Police", "short": "Police", "desc": "Security jurisdiction & outpost allocation" },
+    { "id": "fire", "name": "Fire Service & Civil Defence", "short": "FSCD", "desc": "Emergency accessibility clearance" }
+  ],
+  "awards": [
+    { "title": "REHAB Fair Toronto 2011", "category": "International", "year": "2011", "city": "Toronto, Canada" },
+    { "title": "REHAB Fair New York 2011", "category": "International", "year": "2011", "city": "New York, USA" },
+    { "title": "REHAB Fair Sydney 2011", "category": "International", "year": "2011", "city": "Sydney, Australia" },
+    { "title": "REHAB Summer Fair 2015", "category": "National", "year": "2015", "city": "Dhaka, Bangladesh" },
+    { "title": "REHAB Winter Fair 2014", "category": "National", "year": "2014", "city": "Dhaka, Bangladesh" },
+    { "title": "REHAB Fair 2012", "category": "National", "year": "2012", "city": "Dhaka, Bangladesh" },
+    { "title": "Real Estate Expo 2023", "category": "Excellence", "year": "2023", "city": "Dhaka, Bangladesh" },
+    { "title": "National Housing Fair 2011", "category": "National", "year": "2011", "city": "Dhaka, Bangladesh" }
+  ],
+  "careers": [
+    {
+      "id": "mgr-sales",
+      "title": "Manager (Sales & Corporate Liaison)",
+      "department": "Corporate Sales",
+      "type": "Full-Time",
+      "location": "Dakhina Tower, Dhaka Cantonment",
+      "experience": "5-8 Years in Real Estate or Armed Forces Relations",
+      "description": "Lead corporate property advisory, institutional sales presentations to armed forces entities, and senior buyer negotiations.",
+      "requirements": [
+        "Bachelor's or Master's degree in Business, Marketing, or Defense Studies",
+        "Demonstrated track record in luxury villa or residential land sales",
+        "Exceptional communication and presentation skills in English and Bangla",
+        "Strong relationships with corporate and institutional clientele"
+      ]
+    },
+    {
+      "id": "exec-sales",
+      "title": "Executive (Client Relations & Sales)",
+      "department": "Customer Experience",
+      "type": "Full-Time",
+      "location": "Dakhina City Project Office / Dakhina Tower",
+      "experience": "2-4 Years in Real Estate Sales",
+      "description": "Coordinate project site visits, provide tailored plot consultations, and assist buyers through transparent registration procedures.",
+      "requirements": [
+        "Graduate in any discipline with real estate sales experience",
+        "Customer-first demeanor and prompt follow-up etiquette",
+        "Ability to host on-site guided visits in Dakhina City"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "news-1",
+      "slug": "bafwt-cooperation-agreement",
+      "title": "Dakhina Group Concludes Milestone Residential Liaison with BAF Welfare Trust",
+      "date": "2024-06-22",
+      "category": "Corporate",
+      "summary": "Formal ceremony held at Dakhina Tower reaffirming dedicated sector allocations and fast-track development timelines for defense personnel.",
+      "content": "Dakhina Group management welcomed senior officials from the Bangladesh Air Force Welfare Trust to formalize operational benchmarks for the upcoming residential clusters in Dakhina City."
+    },
+    {
+      "id": "news-2",
+      "slug": "dakhina-city-boulevard-expansion",
+      "title": "100-Foot Main Access Boulevard Paving Reaches Final Milestone",
+      "date": "2024-04-18",
+      "category": "Infrastructure",
+      "summary": "Direct four-lane link connects Dakhina City with Uttara Sector 18 and the Dhaka Metro Rail Line 6 northern terminal.",
+      "content": "Engineers confirmed that the primary 100-foot central spine road is now fully graded, facilitating transit times of under 10 minutes from Maskat Plaza."
+    },
+    {
+      "id": "news-3",
+      "slug": "overseas-expatriate-desk-launch",
+      "title": "Dedicated Expatriate Advisory Wing Established for UK, US, and Australian NRBs",
+      "date": "2024-01-10",
+      "category": "Customer Care",
+      "summary": "Offering virtual 360-degree site walkthroughs and embassy-attested documentation services.",
+      "content": "Over 200 non-resident Bangladeshis have registered plots with Dakhina Group. The new desk streamlines power-of-attorney execution and installment management across time zones."
+    }
+  ]
+}
