@@ -53,3 +53,14 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Deployment Status Notice
+        if: steps.deployment.outcome != 'success'
+        run: |
+          echo "### ℹ️ GitHub Pages Activation Notice" >> $GITHUB_STEP_SUMMARY
+          echo "To publish your site live on GitHub Pages:" >> $GITHUB_STEP_SUMMARY
+          echo "1. Go to repository **Settings** -> **Pages**" >> $GITHUB_STEP_SUMMARY
+          echo "2. Under **Build and deployment > Source**, select **GitHub Actions**" >> $GITHUB_STEP_SUMMARY
+          echo "Once selected, GitHub Pages will automatically serve your live site!" >> $GITHUB_STEP_SUMMARY
+
