@@ -97,6 +97,8 @@ export const RespectedClientsSection: React.FC = () => {
               <img
                 src="/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png"
                 alt="Bangladesh Air Force Welfare Trust"
+                loading="lazy"
+                decoding="async"
                 className="h-full w-full object-contain"
                 onError={(e) => {
                   (e.target as HTMLImageElement).src = '/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png';
@@ -124,6 +126,8 @@ export const RespectedClientsSection: React.FC = () => {
               <img
                 src="/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png"
                 alt="Bangladesh Air Force Official Crest"
+                loading="lazy"
+                decoding="async"
                 className="h-full w-full object-contain"
                 onError={(e) => {
                   (e.target as HTMLImageElement).src = '/assets/dakhina-live/welfaretrust-r33lvjwn5b3k7hab9swrc3e0d0q171674wldcv3kk0.png';
@@ -162,6 +166,8 @@ export const RespectedClientsSection: React.FC = () => {
                     <img
                       src="/assets/dakhina-live/user-jpg.webp"
                       alt={client.name}
+                      loading="lazy"
+                      decoding="async"
                       className="h-full w-full object-cover"
                       onError={(e) => {
                         (e.target as HTMLImageElement).src = '/assets/dakhina-live/baf-r33lskr1i70vfxlynilafufgn3e6tjcsq680nbig9c.png';

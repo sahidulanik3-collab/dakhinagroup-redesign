@@ -33,6 +33,8 @@ export const DrelVideoSection: React.FC = () => {
           <img
             src="/assets/dakhina-live/drel-1024x440.jpg"
             alt="DREL - Dakhina Real Estate Limited Iconic Landmark"
+            loading="lazy"
+            decoding="async"
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             onError={(e) => {
               (e.target as HTMLImageElement).src = '/assets/dakhina-live/drel.jpg';

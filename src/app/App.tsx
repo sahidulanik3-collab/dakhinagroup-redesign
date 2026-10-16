@@ -17,6 +17,7 @@ import { CookieConsent } from '../components/shared/CookieConsent';
 import { ClientReviewModal } from '../components/shared/ClientReviewModal';
 import { CompareModal } from '../components/shared/CompareModal';
 import { CompareBar } from '../components/shared/CompareBar';
+import { MouseTracker } from '../components/shared/MouseTracker';
 
 // Primary Home is loaded directly
 import { Home } from '../pages/Home';
@@ -66,9 +67,12 @@ const AppContent: React.FC = () => {
     if (prefersReducedMotion) return;
 
     const lenis = new Lenis({
-      duration: 1.1,
+      duration: 1.0,
       easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
       smoothWheel: true,
+      wheelMultiplier: 1.0,
+      touchMultiplier: 1.2,
+      infinite: false,
     });
 
     let animationFrameId: number;
@@ -79,14 +83,26 @@ const AppContent: React.FC = () => {
 
     animationFrameId = requestAnimationFrame(raf);
 
+    // Automatically recalculate scroll boundaries when DOM/images resize
+    const resizeObserver = new ResizeObserver(() => {
+      lenis.resize();
+    });
+    if (document.body) {
+      resizeObserver.observe(document.body);
+    }
+
     return () => {
       cancelAnimationFrame(animationFrameId);
+      resizeObserver.disconnect();
       lenis.destroy();
     };
   }, []);
 
   return (
     <div className="flex flex-col min-h-screen text-inherit bg-inherit selection:bg-amber-500/20 selection:text-amber-900">
+      {/* Desktop Mouse Pointer Tracking */}
+      <MouseTracker />
+
       {/* Accessibility Skip Link */}
       <a href="#main-content" className="skip-link">
         Skip to main content

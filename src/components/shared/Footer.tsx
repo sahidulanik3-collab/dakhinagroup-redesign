@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { useLanguage } from '../../hooks/useLanguage';
 import {
@@ -11,9 +11,6 @@ import {
   Twitter,
   ArrowUp,
   Globe,
-  MessageCircle,
-  X,
-  Send,
 } from 'lucide-react';
 
 const GALLERY_THUMBNAILS = [
@@ -27,21 +24,9 @@ const GALLERY_THUMBNAILS = [
 
 export const Footer: React.FC = () => {
   const { content, isBn, toggleLanguage, language } = useLanguage();
-  const [showWhatsAppChat, setShowWhatsAppChat] = useState(false);
-  const [chatMessage, setChatMessage] = useState('');
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
-  const handleWhatsAppSend = (e: React.FormEvent) => {
-    e.preventDefault();
-    const message = encodeURIComponent(
-      chatMessage || 'Hello Dakhina Group, I would like to inquire about plot and villa availability in Dakhina City.'
-    );
-    window.open(`https://wa.me/8801713338888?text=${message}`, '_blank');
-    setShowWhatsAppChat(false);
-    setChatMessage('');
   };
 
   return (
@@ -51,6 +36,8 @@ export const Footer: React.FC = () => {
         <img
           src="/assets/dakhina-live/mirpur_view.jpg"
           alt="Dakhina City Panoramic Green Landscape"
+          loading="lazy"
+          decoding="async"
           className="w-full h-full object-cover object-bottom"
           onError={(e) => {
             (e.target as HTMLImageElement).src = '/assets/dakhina-live/DSCF8649.jpg';
@@ -70,6 +57,8 @@ export const Footer: React.FC = () => {
                 <img
                   src="/assets/dakhina-live/dakhina.png"
                   alt="Dakhina Group - Architect of Trust"
+                  loading="lazy"
+                  decoding="async"
                   className="h-10 sm:h-12 w-auto object-contain"
                   onError={(e) => {
                     (e.target as HTMLImageElement).src = '/assets/dakhina-brand.png';
@@ -140,6 +129,8 @@ export const Footer: React.FC = () => {
                   <img
                     src={item.src}
                     alt={item.alt}
+                    loading="lazy"
+                    decoding="async"
                     className="w-full h-full object-cover group-hover:scale-115 transition-transform duration-300"
                     onError={(e) => {
                       (e.target as HTMLImageElement).src = '/assets/dakhina-live/beutyfication.jpg';
@@ -284,74 +275,6 @@ export const Footer: React.FC = () => {
             <span className="font-bold">Dakhina Group</span>
           </div>
         </div>
-      </div>
-
-      {/* Floating WhatsApp "Need Help?" widget matching Screenshot 1 */}
-      <div className="fixed bottom-6 right-6 z-50">
-        {!showWhatsAppChat ? (
-          <button
-            onClick={() => setShowWhatsAppChat(true)}
-            className="flex items-center gap-2 px-4 py-2.5 rounded-full bg-[#25D366] hover:bg-[#20bd5a] text-white shadow-2xl transition-all duration-300 transform hover:scale-105 active:scale-95 group border-2 border-white"
-            aria-label="Need Help? Chat on WhatsApp"
-          >
-            <span className="text-xs font-bold font-sans">Need Help?</span>
-            <div className="h-7 w-7 rounded-full bg-white text-[#25D366] flex items-center justify-center shadow-inner">
-              <MessageCircle className="h-4 w-4 fill-current" />
-            </div>
-          </button>
-        ) : (
-          <div className="w-80 rounded-2xl bg-white text-neutral-900 shadow-2xl border border-neutral-200 overflow-hidden animate-fade-in">
-            {/* Chat Header */}
-            <div className="bg-[#128341] text-white p-3.5 flex items-center justify-between">
-              <div className="flex items-center gap-2.5">
-                <div className="h-9 w-9 rounded-full bg-white/20 flex items-center justify-center">
-                  <MessageCircle className="h-5 w-5 text-white" />
-                </div>
-                <div>
-                  <h4 className="text-xs font-bold leading-tight">Dakhina Group Hotline</h4>
-                  <span className="text-[10px] text-emerald-100 flex items-center gap-1">
-                    <span className="h-1.5 w-1.5 rounded-full bg-emerald-300 animate-pulse" />
-                    Online & Ready to Help
-                  </span>
-                </div>
-              </div>
-              <button
-                onClick={() => setShowWhatsAppChat(false)}
-                className="p-1 rounded-full hover:bg-white/20 text-white transition-colors"
-                aria-label="Close chat"
-              >
-                <X className="h-4 w-4" />
-              </button>
-            </div>
-
-            {/* Chat Body */}
-            <div className="p-4 bg-emerald-50/40 space-y-3 text-xs">
-              <div className="p-3 rounded-xl bg-white border border-emerald-100 shadow-sm text-neutral-700 leading-relaxed">
-                {isBn
-                  ? 'আসসালামু আলাইকুম! দখিনা সিটির প্লট ও ভিলা সংক্রান্ত যে কোনো তথ্যের জন্য আমাদের সাথে সরাসরি হোয়াটসঅ্যাপে যুক্ত হোন।'
-                  : 'Welcome to Dakhina Group! How can we assist you with Dakhina City plots, pricing or VIP site visits?'}
-              </div>
-            </div>
-
-            {/* Chat Input */}
-            <form onSubmit={handleWhatsAppSend} className="p-3 bg-white border-t border-neutral-100 flex items-center gap-2">
-              <input
-                type="text"
-                placeholder={isBn ? 'আপনার বার্তা লিখুন...' : 'Type your inquiry here...'}
-                value={chatMessage}
-                onChange={(e) => setChatMessage(e.target.value)}
-                className="flex-1 px-3 py-2 rounded-xl border border-neutral-300 text-xs focus:outline-none focus:border-[#128341]"
-              />
-              <button
-                type="submit"
-                className="p-2 rounded-xl bg-[#25D366] hover:bg-[#20bd5a] text-white transition-colors"
-                aria-label="Send WhatsApp message"
-              >
-                <Send className="h-4 w-4" />
-              </button>
-            </form>
-          </div>
-        )}
       </div>
     </footer>
   );

@@ -142,6 +142,8 @@ export const ApprovedAgenciesSection: React.FC = () => {
                 <img
                   src={agency.logo}
                   alt={agency.name}
+                  loading="lazy"
+                  decoding="async"
                   className="h-full w-full object-contain p-1 filter group-hover:scale-110 transition-transform duration-300"
                   onError={(e) => {
                     (e.target as HTMLImageElement).src = '/assets/dakhina-live/rajuk-150x150.jpg';
@@ -185,6 +187,8 @@ export const ApprovedAgenciesSection: React.FC = () => {
                 <img
                   src={item.image}
                   alt={item.caption.en}
+                  loading="lazy"
+                  decoding="async"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
                     (e.target as HTMLImageElement).src = '/assets/dakhina-live/beutyfication.jpg';
