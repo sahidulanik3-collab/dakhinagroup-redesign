@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" fill="none">
+  <g transform="translate(10, 10)">
+    <!-- Architectural Monogram -->
+    <path d="M10 75 L40 10 L70 75 Z" stroke="#B8934A" stroke-width="4" fill="none"/>
+    <path d="M25 50 L55 50" stroke="#B8934A" stroke-width="3"/>
+    <path d="M40 25 L40 75" stroke="#0F3D2E" stroke-width="3"/>
+    <circle cx="40" cy="12" r="4" fill="#B8934A"/>
+    <path d="M5 75 L75 75" stroke="#B8934A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="95" y="46" font-family="'Inter', sans-serif" font-weight="800" font-size="28" fill="#0F3D2E" letter-spacing="1.5">DAKHINA</text>
+  <text x="245" y="46" font-family="'Inter', sans-serif" font-weight="300" font-size="28" fill="#B8934A" letter-spacing="3">GROUP</text>
+  <text x="96" y="68" font-family="'Inter', sans-serif" font-weight="600" font-size="10.5" fill="#5C6B63" letter-spacing="3.8">ARCHITECT OF TRUST</text>
+</svg>
