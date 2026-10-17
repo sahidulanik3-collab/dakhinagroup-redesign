@@ -56,10 +56,11 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({
 
     const defaultCenter: [number, number] =
       focusTarget === 'office' ? [23.8242, 90.3875] : [23.8345, 90.3352];
+    const defaultZoom = focusTarget === 'office' ? 14 : 12;
 
     const map = L.map(mapContainerRef.current, {
       center: defaultCenter,
-      zoom: 12,
+      zoom: defaultZoom,
       scrollWheelZoom: false,
     });
 
@@ -111,12 +112,21 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({
         </div>
       `;
 
-      L.marker([loc.lat, loc.lng], { icon: customIcon })
+      const marker = L.marker([loc.lat, loc.lng], { icon: customIcon })
         .addTo(map)
         .bindPopup(popupContent);
+
+      if (focusTarget === loc.type) {
+        marker.openPopup();
+      }
     });
 
+    const timer = setTimeout(() => {
+      map.invalidateSize();
+    }, 250);
+
     return () => {
+      clearTimeout(timer);
       map.remove();
       mapInstanceRef.current = null;
     };
